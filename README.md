@@ -1,6 +1,6 @@
 # Emr89.github.io
 
-###Data Scientist
+### Data Scientist
 
 
-##Example sentence to test website. 
+## Example sentence to test website. 
