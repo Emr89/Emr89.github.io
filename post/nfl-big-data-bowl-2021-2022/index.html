@@ -1,0 +1,324 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    
+    <title>NFL Big Data Bowl 2021-2022 | Eric Matthew Rupinski </title>
+    <meta name="viewport" content="width=device-width,minimum-scale=1">
+    <meta name="description" content="A Deep Dive into Kickoff Return Yardage Prediction &amp; Significant Performance Factors">
+    <meta name="generator" content="Hugo 0.115.4">
+    
+    
+    
+    
+      <meta name="robots" content="noindex, nofollow">
+    
+
+    
+<link rel="stylesheet" href="https://emr89.github.io/ananke/css/main.min.css" >
+
+
+
+    
+    
+    
+      
+
+    
+
+    
+    
+    <meta property="og:title" content="NFL Big Data Bowl 2021-2022" />
+<meta property="og:description" content="A Deep Dive into Kickoff Return Yardage Prediction &amp; Significant Performance Factors" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://emr89.github.io/post/nfl-big-data-bowl-2021-2022/" /><meta property="article:section" content="post" />
+<meta property="article:published_time" content="2022-02-09T10:58:08-04:00" />
+<meta property="article:modified_time" content="2022-02-09T10:58:08-04:00" />
+<meta itemprop="name" content="NFL Big Data Bowl 2021-2022">
+<meta itemprop="description" content="A Deep Dive into Kickoff Return Yardage Prediction &amp; Significant Performance Factors"><meta itemprop="datePublished" content="2022-02-09T10:58:08-04:00" />
+<meta itemprop="dateModified" content="2022-02-09T10:58:08-04:00" />
+<meta itemprop="wordCount" content="2377">
+<meta itemprop="keywords" content="Scene," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="NFL Big Data Bowl 2021-2022"/>
+<meta name="twitter:description" content="A Deep Dive into Kickoff Return Yardage Prediction &amp; Significant Performance Factors"/>
+
+	
+  </head>
+
+  <body class="ma0 avenir bg-near-white">
+
+    
+   
+  
+
+  
+  <header class="cover bg-top" style="background-image: url('https://emr89.github.io/images/NFL_1_3.png');">
+    <div class="bg-black-60">
+      <nav class="pv3 ph3 ph4-ns" role="navigation">
+  <div class="flex-l justify-between items-center center">
+    <a href="https://emr89.github.io/" class="f3 fw2 hover-white no-underline white-90 dib">
+      
+        Eric Matthew Rupinski 
+      
+    </a>
+    <div class="flex-l items-center">
+      
+
+      
+        <ul class="pl0 mr3">
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://emr89.github.io/about/" title="About page">
+              About
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://emr89.github.io/contact/" title="Contact page">
+              Contact
+            </a>
+          </li>
+          
+          <li class="list f5 f4-ns fw4 dib pr3">
+            <a class="hover-white no-underline white-90" href="https://emr89.github.io/post/" title="Projects page">
+              Projects
+            </a>
+          </li>
+          
+        </ul>
+      
+      
+<div class="ananke-socials">
+  
+</div>
+
+    </div>
+  </div>
+</nav>
+
+      <div class="tc-l pv6 ph3 ph4-ns">
+        
+          <div class="f2 f1-l fw2 white-90 mb0 lh-title">NFL Big Data Bowl 2021-2022</div>
+          
+            <div class="fw1 f5 f3-l white-80 measure-wide-l center lh-copy mt3 mb4">
+              A Deep Dive into Kickoff Return Yardage Prediction &amp; Significant Performance Factors
+            </div>
+          
+        
+      </div>
+    </div>
+  </header>
+
+
+
+    <main class="pb7" role="main">
+      
+  
+  <article class="flex-l flex-wrap justify-between mw8 center ph3">
+    <header class="mt4 w-100">
+      <aside class="instapaper_ignoref b helvetica tracked">
+          
+        PROJECTS
+      </aside>
+      
+
+
+
+
+
+
+
+
+
+
+  <div id="sharing" class="mt3 ananke-socials">
+    
+  </div>
+
+
+      <h1 class="f1 athelas mt3 mb1">NFL Big Data Bowl 2021-2022</h1>
+      
+      
+      
+      <time class="f6 mv4 dib tracked" datetime="2022-02-09T10:58:08-04:00">February 9, 2022</time>
+      
+
+      
+      
+    </header>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h4 id="github-link-httpsgithubcomemr89instantaneous-preliminary-kick-return-analysis">Github Link: <a href="https://github.com/Emr89/Instantaneous-Preliminary-Kick-Return-Analysis">https://github.com/Emr89/Instantaneous-Preliminary-Kick-Return-Analysis</a></h4>
+<ol>
+<li>Introduction:</li>
+</ol>
+<p>When it comes to analyzing plays in today’s game, too often people form their opinions and thoughts almost entirely on how the play concluded. Is the conclusion of the play important? Of course! But often people forget the importance of analyzing the decisions and habits of players at the start of the play, because more often than not, individuals tend to display patterns. Though these patterns are beneficial for analyzing and predicting player performance, more importantly; they provide insight into the implicit interconnection of the game.  Furthermore, there’s no aspect of football that embodies the importance of initial player performance like kickoffs and kick returns.</p>
+<p>I chose to dive deeper into the mechanism of kick returns, specifically analyzing kick returns at the moment the kick returner receives the ball. My goal when researching this subset of the data, was not only to predict the number of return yards at the instantaneous moment the kick was received, but also to try and find unnoticed or underappreciated relationships between the tracking data and the number of return yards. My analysis consists of two major components. The first component was the process of creating the most beneficial data set to model. The second component was optimizing the formula of the most beneficial variables to predict the number of return yards.  The first component is not only crucial for optimizing a regression model, but also for understanding the relationship among all these various measures of the tracking data, and how these measures can be utilized to impact performance. The second component is crucial for finding the best balance of the predictors as possible, to be able to fully understand relationship amongst the tracking data. Altogether, I analyzed the composition of the tracking data in relation to the number of return yards, I modeled that relationship with various models and packages in R to optimize the accuracy of the model, and finally, I created an expected return yards variable from my model.</p>
+<figure><img src="https://emr89.github.io/images/1_.gif"/>
+</figure>
+
+<ol start="2">
+<li>Procedure:</li>
+</ol>
+<p>2a. Data</p>
+<p>Though several data sources were used in the process of creating the final data frame, the tracking data was the focus of my analysis, with the exception of the ‘kickReturnYardage” from the “plays” data source.  Most of the work done, with any other data source besides the tracking data, was with the purpose of clarifying variables in the tracking, such as changing the team status from “home/away” to each player’s specific team. The following provided data sources were utilized: All the tracking data, the “play” data frame, the “game” data frame, and finally, the “PFF Scouting” data frame.</p>
+<h4 id="the-following-were-the-variavbles-present-in-the-tracking-data-set">The following were the variavbles present in the Tracking Data Set:</h4>
+<ul>
+<li>x (Position of player or football on length of the field)</li>
+<li>y (Position of player or football on width of the field)</li>
+<li>s (Speed of player or football)</li>
+<li>a (Acceleration of player or football)</li>
+<li>d (Displacement of player or football from the last tenth of a second)</li>
+<li>o (Orientation of player or football on field)</li>
+<li>dir (Direction of player or football on field)</li>
+<li>event (If any major event occurred on the play or not, such as the tackle, the ball recieved by the kick returner, touchdown, etc)</li>
+<li>Several variables pertaining to Id &amp; Position of individual being tracked such as name, position, jersey number, etc</li>
+<li>frameId (the nth 10th of a second of time into the play)</li>
+<li>playDirection (which direction the play went)</li>
+</ul>
+<p>The &ldquo;Plays&rdquo;, &ldquo;Players&rdquo;, and &ldquo;PFFScoutingData&rdquo; were all used to subset the data into the appropriate manner to capture each unique play, while taking into account which players were on what team and what their positions were. The manipulated tracking data was primarily the data used, especially when it came to variables that were manipulated to be analyzed.</p>
+<p>Several variables were created for the purpose of analyzing aspects of the tracking data that were not explicitly shown but were most likely impactful. Also, several key variables were created to sort through specific conditions with ease. Though the created predictor variables appear at various points in the analysis, the variables were created to represent the following aspects of the data:</p>
+<ul>
+<li>A categorical combination of the exact position on the kicking team (L1, L2, …. R2,R1), along with a unique level for the kick returner (labeled “KR” and then a numerical value for the rest of the receiving team that represents the proximity to the kick returner at the point of receiving the kick</li>
+<li>A general Euclidean variable that represents every player’s distance from the Kick Returner, individually</li>
+<li>Several combinations of descriptive statistics (measuring central tendency, variance, and total size) , that describe Euclidean distances for specific subsets of players based on their team and rank in distance from the kick returner. The following contains the factors for the combinations
+o	Proximity subset, which includes the 2 closest players, the 4 closest players AFTER the initial 2, and the grand total
+o	The totals, means, and standard deviations were calculated for each of those subsets
+o	The subsets were separated by team, so the process was done for both teams.</li>
+<li>For the kicking team only: the Euclidean process above was repeated for the following variables: speed, acceleration, orientation, and direction</li>
+<li>Missed tacklers were converted to a total number of missed tackles for each play</li>
+</ul>
+<p>Additionally, several configurations of the data were created to emphasize certain variables in each case. The data set differences are the following:</p>
+<ul>
+<li>A data frame where the Euclidean distances from the kick returner were ranked, and then pivoted so each observation was one play, at the moment the kick was received. The kick returner had all of their tracking statistics, but only Euclidean distances were represented for each individual, along with a dummy variable for each ranking to display whether they were on the kicking team or receiving team.</li>
+<li>A data frame where only the kick returner and the kicking team had their tracking data represented,</li>
+<li>The main data frame for the bulk of the computations with the following set up:
+o	Contains all the variables that are mathematical representations of the distribution of specific player subsets.
+o	The kicking team is sorted by precise position (and not just Euclidean distance)
+o	The receiving team players are included, and are labeled by ranking of the distance to the kick returner at the point of the kick being received.
+After applying the same methodology to the various data frames, the best resulting data set consists of only position-based tracking statistics for the kicking team and the kick returner, the remainder of the kick return team was represented summary statistics of a subset the return team and the kicking team.</li>
+</ul>
+<p>In connection was the most advantageous model, the following variables were the present in the final form of the data: (All variables are at the point that the kick is received by the kick returner):</p>
+<ul>
+<li>X = the position of the kick returner</li>
+<li>TMT = the number of hypothetical missed tackles during the play</li>
+<li>RTC2 = Total Euclidean for Receiving Team (First 2 closest players besides kick returner)</li>
+<li>RSDE = The Euclidian’s total standard deviation for the kicking team</li>
+<li>RMC2 = Mean Euclidean for Kick Team (First 2 closest players)</li>
+<li>returnDirectionActual_C= when the ball is being returned center</li>
+<li>KTC3T6 = The total Euclidean for the 3rd closest to 6th closest players on the kicking team</li>
+<li>KTC2 = Total Euclidean for Kick Team (First 2 closest players)</li>
+<li>KME = The mean Euclidean distance of the kicking team</li>
+<li>KMC3T6 = the men Euclidean distance of the 3rd closest to 6th closest player on the kicking team</li>
+<li>KMC2 = The mean Euclidean distance of the closest 2 players on the kicking team</li>
+<li>EurR5= Distance from R5 to the kick returner</li>
+<li>EucR4= Distance from R4 to the kick returner</li>
+<li>EucR3= Distance from R3 to the kick returner</li>
+<li>EucR2= Distance from R2 to the kick returner</li>
+<li>EucR1= Distance from R1 to the kick returner</li>
+<li>EucL5= Distance from L5 to the kick returner</li>
+<li>EucL4= Distance from L4 to the kick returner</li>
+<li>EucL3 = Distance from L3 to the kick returner</li>
+<li>EucL2= Distance from L2 to the kick returner</li>
+<li>EucL1 = Distance from L1 to the kick returner</li>
+<li>EucK = Distance from the kicker to the kick returner</li>
+<li>AccKME = The mean acceleration of the kicking team</li>
+</ul>
+<p>2b. Models
+There were two rounds of model implementation. The first round contained a wide variety of models, that were all tuned a similar way using the caret package. These models include:</p>
+<ol>
+<li>Neural Networks</li>
+<li>Glmnet (Lasso and elastic nnet regression)</li>
+<li>Elastic Net regression</li>
+<li>Ridge regression</li>
+<li>Random forests</li>
+</ol>
+<h2 id="conclusions">Conclusions:</h2>
+<h3 id="models">Models:</h3>
+<p>The models tended to perform better when the data was centered, scaled, and transformed using YeoJohnson’s transformations.</p>
+<h4 id="the-following-are-the-best-models-found-for-each-regression-type">The following are the best models found for each regression type:</h4>
+<figure><img src="https://emr89.github.io/images/NFLBDBMODRES.png"/>
+</figure>
+
+<p>Countless subsets of data and data transformations were attempted to meaasure the results and the best models overall for each type of regression were recorded and shown above. The strongest models by far were the Random Forest and Linear Models, both with an R^2 of ~ 0.35, or 35% variance explained. The remaining model types, such as the Ridge, Elastic Net, and General Elastic Net were all ~ 0.30 for their R^2 values.</p>
+<h3 id="best-kick-return-model-with-specific-positions">Best Kick Return Model with Specific Positions</h3>
+<figure><img src="https://emr89.github.io/images/BESTKRY.jpg"/>
+</figure>
+
+<h5 id="variable-importance-as-shown-below">Variable importance (As shown below):</h5>
+<p>The first major component of the analysis was to measure the importance of the variables in some of the various versions of the data set. This measure was determined by random Forests importance measures, and caret’s feature selection measures. Based off several attempts at modeling various combinations of the tracking data, the following has become apparent. First, the most influential variable is the kick is the mean distance from the front 2 players on the kicking team. Second, the positional data, represented as the Euclidean distance, tends to mean far more than the orientation, speed, or even speed of the kicking team players. Third, the individual Euclidean distance only seems to be very influential at the kicking team level, the receiving team Euclidean distance appears more useful in the form of the summary statistics of its general distribution. Fourth, the average distance from the kick returner appears to be far more important than the total Euclidean distance of the entire kicking team, which means that the importance of the distances relies on each players relative distance more than the grand total, with the exception of the fastest 2 players on the kicking team. Though speed of the fastest players on the kicking team is vital, the remainder of the kicking team must be in the same range of proximity to the kick returner to ensure success tackling the kick returner. Next, obviously missed tackled have a significant impact on the amount of return yards, but interestingly enough, not as much as the general distribution of the distances from the kick returner and from each other on the kicking team.  Additionally, it appears that the players whose Euclidean distances that matter the most on the kicking team, tend to line up near the middle of the field, such as L5, L4, R4, R5. So, it would appear that ideally the fastest players on the kicking team line up in the positions closest to the kicker. Finally, the only movement statistic that was significant was the mean acceleration of every player on the kicking team, which means that cohesiveness as a unit might mean more than the individual speeds of the player.</p>
+<p>For the receiving team, it appears that the spread of the distances amongst the blockers appears to carry the most weight. The most important blockers appear to definitely be the two closest blockers, as they need to be close enough at the point of receiving the ball.</p>
+<p>Finally for the kick returner, the position on the field he receives the ball at matters, and returning the ball in the middle of the field tends to have a slightly negative impact on the expected return yards.</p>
+<h3 id="best-time-series-model-overall">Best Time Series Model Overall:</h3>
+<p>v<figure><img src="https://emr89.github.io/images/BESTTSMSUM.png"/>
+</figure>
+
+<figure><img src="https://emr89.github.io/images/BESTTSM.png"/>
+</figure>
+</p>
+<p>After some research I discovered the CAST package that allows time series models to be created that takes into account time and the distance between mutliple objects. The Random Forest Algorithm was paired with the CAST Package to create models to predict kick return yardage. The resulting best model was better than any model that I had previously researched, as it had an R^2 of 0.529, which means it explained 52.9% of the variance, with only 7 predictor variables. The most important variables were the &ldquo;x&rdquo; &amp; &ldquo;Euclidean&rdquo; variables, that measured the longitudinal location on the field, and the total distance from the kick returner respectively. Most variables were quite significant when predicting kick return yardage, though the least seemed to be speed at the moment the kick is recieved, though it was still significant.</p>
+<p>Altogether, the ability to predict kick return yardage at the instantaneous moment the kick is recieved proves to be intricately challenging, as one would think. Though the utilization of the space-time folds in the CAST package was proven to be quite useful, as an R^2 of 0.529, given only 1 frame of tracking data earlier in the play, is quite impressive and proves the importance that the performance at the begginning of the play has on the outcome of the play overall. The best modeling method appears to be the Random Forest modeling, in the situations with and without the space-time folds. The introduction of the Euclidean distances variable seems to be quite important in trying to predict kick return yardage, as one would logically expect when trying to predict the other team&rsquo;s ability to make the tackle. Wihtout the space-time folds, the subset of data that had proven to be most effective was the data where each individual player&rsquo;s tracking data and position data was denoted as its own category, so logically it means that the importance of the interaction between a player&rsquo;s position, team, and tracking data, is quite important. If this study was continued further, there should be an emphasis on using the space-time from the CAST package with several subsets and model types to try and find the best overall model. The discovery of the CAST package came late in the project, so future project would use it from the earliest stages when using tracking data like the NFL&rsquo;s data.</p>
+<ul class="pa0">
+  
+   <li class="list di">
+     <a href="https://emr89.github.io/tags/scene/" class="link f5 grow no-underline br-pill ba ph3 pv2 mb2 dib black sans-serif">Scene</a>
+   </li>
+  
+</ul>
+<div class="mt6 instapaper_ignoref">
+      
+      
+      </div>
+    </div>
+
+    <aside class="w-30-l mt6-l">
+
+
+
+
+  <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
+    <p class="f5 b mb3">Related</p>
+    <ul class="pa0 list">
+	   
+	     <li  class="mb2">
+          <a href="https://emr89.github.io/post/fifa-world-cup-match-prediction/">FIFA World Cup Match Prediction</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://emr89.github.io/post/nfl-multivariate-analysis/">NFL Multivariate Analysis</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://emr89.github.io/post/2020-supplemental-football-match-up-analysis/">2020 Supplemental Football Match Up Analysis</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://emr89.github.io/post/super-bowl-53-analysis/">Super Bowl 53 Analysis</a>
+        </li>
+	    
+	     <li  class="mb2">
+          <a href="https://emr89.github.io/post/nfl-performance/">NFL Performance Research &amp; Prediction</a>
+        </li>
+	    
+    </ul>
+</div>
+
+</aside>
+
+  </article>
+
+    </main>
+    <footer class="bg-black bottom-0 w-100 pa3" role="contentinfo">
+  <div class="flex justify-between">
+  <a class="f4 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph3" href="https://emr89.github.io/" >
+    &copy;  Eric Matthew Rupinski  2024 
+  </a>
+    <div>
+<div class="ananke-socials">
+  
+</div>
+</div>
+  </div>
+</footer>
+
+  </body>
+</html>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scene on Eric Matthew Rupinski </title>
+    <link>https://emr89.github.io/tags/scene/</link>
+    <description>Recent content in Scene on Eric Matthew Rupinski </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 09 Feb 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://emr89.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIFA World Cup Match Prediction</title>
+      <link>https://emr89.github.io/post/fifa-world-cup-match-prediction/</link>
+      <pubDate>Wed, 09 Feb 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://emr89.github.io/post/fifa-world-cup-match-prediction/</guid>
+      <description>Note: Current Progress is at the stage of utilizing the best models to apply to an in-game situation for strategy. Github Link: https://github.com/Emr89/FIFA-Match-Performance-Analysis Introduction: The primary objective of this project was to utilize player and team performance attributes, using FIFA player and team attribute ratings, to find its impact on match event outcomes. Specifically, player and team performance attributes are refrencing the FIFA Ratings, that are provided in their games, to break down the strengths and weaknesess of each player and team in a numerical rating system out of 100.</description>
+    </item>
+    
+    <item>
+      <title>NFL Big Data Bowl 2021-2022</title>
+      <link>https://emr89.github.io/post/nfl-big-data-bowl-2021-2022/</link>
+      <pubDate>Wed, 09 Feb 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://emr89.github.io/post/nfl-big-data-bowl-2021-2022/</guid>
+      <description>Github Link: https://github.com/Emr89/Instantaneous-Preliminary-Kick-Return-Analysis Introduction: When it comes to analyzing plays in today’s game, too often people form their opinions and thoughts almost entirely on how the play concluded. Is the conclusion of the play important? Of course! But often people forget the importance of analyzing the decisions and habits of players at the start of the play, because more often than not, individuals tend to display patterns. Though these patterns are beneficial for analyzing and predicting player performance, more importantly; they provide insight into the implicit interconnection of the game.</description>
+    </item>
+    
+    <item>
+      <title>NFL Multivariate Analysis</title>
+      <link>https://emr89.github.io/post/nfl-multivariate-analysis/</link>
+      <pubDate>Wed, 09 Feb 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://emr89.github.io/post/nfl-multivariate-analysis/</guid>
+      <description>Introduction: This project is a collection of homework assignments for the college level course &amp;ldquo;Multivariate Analysis&amp;rdquo; at Rutgers University. The data used for all the homework assignments was self-created NFL Data Set from various online sources and used to track weekly performance for each team in each one of their matchups.
+There are 14 homework assignments in total that are presented as one project. The following statistical topics are covered in the project: Finding Mean Vectors Finding Variance-Covariance Matricies Finding Correlation Matricies Assessing Bivariate Normality in Pairs with Several Statistical Tests for Normality Checking Data Set for Outliers &amp;amp; Removing Them Creating Bonferroni Confidence Intervals Testing Given Numbers Supposedly Representing Means &amp;amp; Testing Them Against Actual Population Means Testing Mean Difference in Two Different Samples Creating Multivariate Linear Models Conducting Principal Component Analysis (PCA) Obtaining Eigenvalue &amp;amp; Eigenvector for PCA Model Selection for Mulitvariate Models Creating &amp;amp; Analyzing Growth Curves Conducting Explanatory Factor Analysis Performing Maximum-Likelihood Factor Analysis Covariance Matrix W/ Loadings Comparing Effectiveness of Various Factor Analysis Computing Canonical Correlations &amp;amp; Testing for Signifigance Generating Helio Plots Calculating Euclidean Distances Creating Dendrograms Conducting K-Means Clustering Note: Some reflections and answers were required for some of the assignments and their subsections, BUT not for all.</description>
+    </item>
+    
+    <item>
+      <title>2020 Supplemental Football Match Up Analysis</title>
+      <link>https://emr89.github.io/post/2020-supplemental-football-match-up-analysis/</link>
+      <pubDate>Thu, 09 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://emr89.github.io/post/2020-supplemental-football-match-up-analysis/</guid>
+      <description>Github Link: https://github.com/Emr89/NFL-Supplemental-Match-Analysis-2020
+Section Explanation This section has two subsections. The first subset, “Outcome Prediction”, which was created in the &amp;ldquo;Football Strategy Project&amp;rdquo;, gives the performance predictions for the probability of success for the Patriots in their matchup against the 49ers. The Last subset,“Strategic Play Analysis”, introduces new supplementary statistical models that were created to help the Patriots maximize their efficiency and greatly increase their chances of success. These models can look at factors for individual plays to determine which rush direction or pass level would greatly benefit the Patriots on offense, given the circumstances and goal in mind.</description>
+    </item>
+    
+    <item>
+      <title>Super Bowl 53 Analysis</title>
+      <link>https://emr89.github.io/post/super-bowl-53-analysis/</link>
+      <pubDate>Fri, 09 Oct 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://emr89.github.io/post/super-bowl-53-analysis/</guid>
+      <description>Github Link: https://github.com/Emr89/NFL-Performance-Research Then navigate to the &amp;ldquo;Code for 2020 Proect
+Section Explanation: The purpose of this section is to reverse engineer and analyze the strategy that Coach Belichick implemented in Super Bowl 53 versus the Los Angeles Rams. The chart below reflects the estimated predictions for performance factors in Superbowl 53 versus the Rams, before and after the implemented strategy. To analyze the strategy, I first predicted the performance factors without implementation of strategy for both teams.</description>
+    </item>
+    
+    <item>
+      <title>NFL Performance Research &amp; Prediction</title>
+      <link>https://emr89.github.io/post/nfl-performance/</link>
+      <pubDate>Sun, 09 Aug 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://emr89.github.io/post/nfl-performance/</guid>
+      <description>Link to Github: https://github.com/Emr89/NFL-Performance-Research Description and Layout of Project: Comprehensive Project Goal: The prime objective of this project is to supply the Lions with an alternative means of analyzing and predicting team performance, which can be utilized to create strategic improvements throughout the season. The most effective method to achieve this alternate method was to develop the most advantageous statistical models for analysis and prediction. A notable benefit to implementing advanced statistical methods is the ability to measure, with a relatively high degree of accuracy, the probability of success for potential game strategies, without having to test them in live game scenarios beforehand.</description>
+    </item>
+    
+  </channel>
+</rss>
