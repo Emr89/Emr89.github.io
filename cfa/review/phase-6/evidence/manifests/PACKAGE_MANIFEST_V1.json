@@ -1,0 +1,3171 @@
+{
+  "package": "CFA_PHASE_6_STRATEGY_ROOM_VISUAL_EVIDENCE_V1",
+  "file_count_excluding_this_manifest": 633,
+  "files": [
+    {
+      "path": "contact-sheets/broadcast-intelligence/STAGE-2B_BROADCAST_INTELLIGENCE_EVIDENCE_01.jpg",
+      "size_bytes": 648264,
+      "sha256": "50d5ec6c854a46cf5b6d09fcc95d4a5b2d83e406e82ba54f0beb9d302cba2572"
+    },
+    {
+      "path": "contact-sheets/broadcast-intelligence/STAGE-2C_BROADCAST_INTELLIGENCE_EVIDENCE_01.jpg",
+      "size_bytes": 644117,
+      "sha256": "b1eb6f7d7b0eac232c7fe2e2434ae0dd5a46807d7ccc54bc61bfbdcd75149b1c"
+    },
+    {
+      "path": "contact-sheets/broadcast-intelligence/STAGE-2C_BROADCAST_INTELLIGENCE_EVIDENCE_02.jpg",
+      "size_bytes": 663827,
+      "sha256": "a40461438244cb7ebbf0b5f457a17ce1664427a0ef41ae0a5e39c601cfeeb094"
+    },
+    {
+      "path": "contact-sheets/broadcast-intelligence/STAGE-2_BROADCAST_INTELLIGENCE_EVIDENCE_01.jpg",
+      "size_bytes": 864749,
+      "sha256": "014be740e8951f830ee50d92b3634e4aed23166a6554f4df8806c8212b1868fa"
+    },
+    {
+      "path": "contact-sheets/stage-comparison/STAGE_COMPARISON_EVIDENCE_V1.jpg",
+      "size_bytes": 1179394,
+      "sha256": "3b1fd6c7e2408deb9af663e44e165742b25dd49a0a78855098876bc5472b7343"
+    },
+    {
+      "path": "index.html",
+      "size_bytes": 17592,
+      "sha256": "d882ccf26f5337040ae36771d76e5ea90029463670f28cceb2508a2128df52b8"
+    },
+    {
+      "path": "manifests/BROADCAST_INTELLIGENCE_EVIDENCE_MANIFEST_V1.json",
+      "size_bytes": 4390,
+      "sha256": "2aaa528c281c055e87e77b703643ca77f7e9874b9adc749075eafeea8a91fc0d"
+    },
+    {
+      "path": "manifests/CAMERA_ENVIRONMENT_EVIDENCE_MANIFEST_V1.json",
+      "size_bytes": 2598,
+      "sha256": "1ace52a76ba608526126644ef521c9d2d655ec78c69e34c0d61c09418f152b39"
+    },
+    {
+      "path": "manifests/EXTRACTION_STATISTICS_V1.json",
+      "size_bytes": 8752,
+      "sha256": "bc549b4d670eb9e917459929b501f19c78da380de790f419d1f37d3f92701a99"
+    },
+    {
+      "path": "manifests/FRAME_MANIFEST_V1.json",
+      "size_bytes": 224100,
+      "sha256": "3889e6cf05a158fcdcc16b565dc4d0c284548545c634c95b0c741aa8e8126dba"
+    },
+    {
+      "path": "manifests/PLAYER_BALL_MOTION_EVIDENCE_MANIFEST_V1.json",
+      "size_bytes": 10328,
+      "sha256": "fae5356ca3ecc1a1b1008881c3cb3d92e268b89d92cdfe8567abf35a37f5a1cc"
+    },
+    {
+      "path": "manifests/SOURCE_INTEGRITY_MANIFEST_V1.json",
+      "size_bytes": 4236,
+      "sha256": "c423b8fb18fba1d0663bedff8c41deb9dabb02e6237104d38cc510729b0db88a"
+    },
+    {
+      "path": "manifests/STAGE_COMPARISON_EVIDENCE_MANIFEST_V1.json",
+      "size_bytes": 2369,
+      "sha256": "72ece226c1d82ef88326ac23f2b37285b5e79a69385a2962e6a732b0f3062468"
+    },
+    {
+      "path": "manifests/TECHNICAL_OBSERVATIONS_V1.json",
+      "size_bytes": 773,
+      "sha256": "908d5f630ab8890792a009ae3add1b4d39c243efd7f5a22c3a7084df86758800"
+    },
+    {
+      "path": "manifests/TRANSITION_EVIDENCE_MANIFEST_V1.json",
+      "size_bytes": 22791,
+      "sha256": "c66a4bdfaffbfed1abfd412350bb3fe807a63229c9720138c25297df201e31d6"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/camera-environment/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg",
+      "size_bytes": 576133,
+      "sha256": "720ceec93ff6f59e5ae2ed25b38ddbd9956516f2eb4d94969079f2bb067f7412"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/contact-sheets/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_MASTER_CONTACT_SHEET_01.jpg",
+      "size_bytes": 834662,
+      "sha256": "884b58febf0fbb42fd27918ccc04ab3b3156b4376d324ddf7faf876b5a3f87ff"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/contact-sheets/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_MASTER_CONTACT_SHEET_02.jpg",
+      "size_bytes": 841850,
+      "sha256": "66f63a9baecf1966fe4d97a3143a158f71ae93510aeb4a002875f5199bc7104b"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/contact-sheets/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_MASTER_CONTACT_SHEET_03.jpg",
+      "size_bytes": 834159,
+      "sha256": "c7eddc8690fe7a7919410d8cd6763b513d84d41ac69f030848940b59cdc2a65e"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/contact-sheets/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_MASTER_CONTACT_SHEET_04.jpg",
+      "size_bytes": 814262,
+      "sha256": "976dd2c883dc5bfba72e1486b5bdfbd35e140b15341a93fd14d2d248ab0fffd3"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_000000ms.jpg",
+      "size_bytes": 287223,
+      "sha256": "4572cfe0c9c2131bd350b2cf9b3ed7477b14964c66f49b3d9596d5b994c93943"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_000500ms.jpg",
+      "size_bytes": 290065,
+      "sha256": "67a5f992a494d8821421cf24bbeb75e90809f8d7305a5bf502414d94631af600"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_001000ms.jpg",
+      "size_bytes": 298862,
+      "sha256": "ffec156f2f2cc49dd4f107227681f543155ca1f0698b14c7870b7006a30f3e6c"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_001500ms.jpg",
+      "size_bytes": 300438,
+      "sha256": "77901212be442d12d2c97892c1f878f23c4af1fc5015ce7d3250dab19e597540"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_002000ms.jpg",
+      "size_bytes": 297785,
+      "sha256": "13d054b2471d6693585d55ce1fc24086d29cc1e9eedac734f46cc13888d5d6e6"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_002500ms.jpg",
+      "size_bytes": 299035,
+      "sha256": "ad44f38c79f2717fe95dad6d3a35d95589a193bdd8a66cb2ff976f6dda1702ed"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_003000ms.jpg",
+      "size_bytes": 312778,
+      "sha256": "f1b87d608398481148d13b3880dd5385582117587c87e345bab130a35148704f"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_003500ms.jpg",
+      "size_bytes": 312214,
+      "sha256": "5df7e95b516b32266af2b621152799295598fe29c1fa3e1177bf83c5ae51aa94"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_004000ms.jpg",
+      "size_bytes": 315490,
+      "sha256": "9890038e64193cf5694eabd539d1ae3608a66672ba071569092e3665be48f7fe"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_004500ms.jpg",
+      "size_bytes": 316228,
+      "sha256": "53f71c65aeec1d85e9770456bdeb98ba75dbb509854e394caa33749840f9d87b"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_005000ms.jpg",
+      "size_bytes": 316878,
+      "sha256": "0317b714d6083eec3a998c24f7d750f5fb5a67eb114aa99e56b5de60f20befac"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_005500ms.jpg",
+      "size_bytes": 315177,
+      "sha256": "9ba11511cba8bbad0cc4e766fb08ccde3ae116c5947769f281cdd468fb7da164"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_006000ms.jpg",
+      "size_bytes": 311958,
+      "sha256": "a21e03fbeec1e4e92b22e3f0804910688d981a964090e5448f24cc6472cbd625"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_006500ms.jpg",
+      "size_bytes": 311344,
+      "sha256": "2120dfcbbbc2948ff6bd445a4e57ccc70716a5e6ea0892e1268e1af8e0f27f58"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_007000ms.jpg",
+      "size_bytes": 309442,
+      "sha256": "7594698551e225b1857046cd9a35a89ad6c4989cc44ec962bef88c4c9fa6cf1a"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_007500ms.jpg",
+      "size_bytes": 310271,
+      "sha256": "788e432eb65d3440e53e9f2a0fb4c5a5c412909adb616121ca7facf85a17dcba"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_008000ms.jpg",
+      "size_bytes": 309414,
+      "sha256": "ba4101ffdd9045f33ecc4fa0d6feb8802a77c2a0e47103c4ecf1322064826eb6"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_008500ms.jpg",
+      "size_bytes": 310558,
+      "sha256": "1805dde7e78117683d6c41a2dc9e6d66b9b4494f1782d7b059fba24dda030f57"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_009000ms.jpg",
+      "size_bytes": 309803,
+      "sha256": "9c0745ad14172460cd0c29706fd1423e8abeff73c6f6e794a6d63694f533a8ad"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_009500ms.jpg",
+      "size_bytes": 311917,
+      "sha256": "010421044064765339c6c61eeeabf7b195fdfdf347a39dd3ed76d8bfac3a4fe5"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_010000ms.jpg",
+      "size_bytes": 313210,
+      "sha256": "24931365423efcc9430e693b841851154b3bd891144bc568b2cb40f01badcbb9"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_010500ms.jpg",
+      "size_bytes": 318764,
+      "sha256": "8751f15df8a6de8b07c095bfe065a373ee8e0a1e3f9ab8c2d2d5b074ead3c71e"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_011000ms.jpg",
+      "size_bytes": 320054,
+      "sha256": "ab8d7558b949c114e205c471cd301275b047632ffce1a20279255b40adef215b"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_011500ms.jpg",
+      "size_bytes": 319857,
+      "sha256": "936bb72f29b588a0baf6b78bcd643eda52daf0943b6b8cd80c4b8dc652d26c25"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_012000ms.jpg",
+      "size_bytes": 316999,
+      "sha256": "3caf89550f16018feee01d98f5f6451e3ff80a53d5b304b2e777269dd47bf222"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_012500ms.jpg",
+      "size_bytes": 316724,
+      "sha256": "5686e632d9b46462195a0dfeb082d855faf5fa61e3f335871a20170cf10dfe85"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_013000ms.jpg",
+      "size_bytes": 314718,
+      "sha256": "53c6c29f2842905af248f34efe681593feb22e156c1ee64c28b84b3b52c133c4"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_013500ms.jpg",
+      "size_bytes": 311601,
+      "sha256": "b2803bfa6b9b39d31f0acfee6342a10884069a96c4f99091293ff44ff4e82702"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_014000ms.jpg",
+      "size_bytes": 313638,
+      "sha256": "fd62c4e81013659f965eeb92745207cc1f198a735b9241cf1eb46e4918f49095"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_014500ms.jpg",
+      "size_bytes": 316626,
+      "sha256": "612fd349fae87afabb657946a49b676ec4c1caff0183c6b96a21962da26d59c0"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_015000ms.jpg",
+      "size_bytes": 315419,
+      "sha256": "1b03110acfed186376c8224a34e2d3e27a05f69184c85069235596b553fd161e"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_015500ms.jpg",
+      "size_bytes": 316073,
+      "sha256": "cf48b45392243d33070b23460fa9a3f278732e9c0c5942cca408016c1d94e102"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_016000ms.jpg",
+      "size_bytes": 315403,
+      "sha256": "d34ffe28cbe538ce805af023125afcb1921219444be2d3a14e917ce2d966bb4d"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_016500ms.jpg",
+      "size_bytes": 315098,
+      "sha256": "0a2bb8d800b3823f85e398d01571897cf0bf7042c66d3ebbc5654afa4cc5509e"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_017000ms.jpg",
+      "size_bytes": 311309,
+      "sha256": "9d115b5723fa4c4f6b3f9fc9a8ff2e5d9d07db62b51b4c4b735d34a4f392e70c"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_017500ms.jpg",
+      "size_bytes": 314085,
+      "sha256": "067c606345743c5f91b6a97b8ad83df65f39b65db5ce1173b33e666286513056"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_018000ms.jpg",
+      "size_bytes": 314678,
+      "sha256": "1b4bda2c56f5a36d7835e8e537f42f3ba218a448466e6a0c507739cf9b560b6a"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_018500ms.jpg",
+      "size_bytes": 315666,
+      "sha256": "a576caa1b212fb0c419ce774e6c6a9be6d2152bc1972e6c86f249e389bd1e4c2"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_019000ms.jpg",
+      "size_bytes": 316337,
+      "sha256": "0bddfb92e5018a99361c0ca8dae0661e776a4cd25aa2bff3301e9efaf964fb7b"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_019500ms.jpg",
+      "size_bytes": 314310,
+      "sha256": "8b28e9f833105bec13ec36f882295b16b17df35fa39f94cd4ea2ff069bb4b839"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_020000ms.jpg",
+      "size_bytes": 312617,
+      "sha256": "7f71083a448c91a6d40178ccfd94bd4d1e2752530ad04c36e7e89596b5a1d3db"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_020500ms.jpg",
+      "size_bytes": 312093,
+      "sha256": "45e25c45df6eb53eab2c7bcc4284da37bc1079a8d313c19af3c30ce437f0d8a3"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_021000ms.jpg",
+      "size_bytes": 310270,
+      "sha256": "301e847a2579eccc99374274393613caee1825190dd5f0de80648a0a739662b1"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_021500ms.jpg",
+      "size_bytes": 309350,
+      "sha256": "9619c5277740e7bf7d48dbdf88c3c78a9371413f08c1cfe6c2e1f3452c37b107"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_022000ms.jpg",
+      "size_bytes": 306290,
+      "sha256": "978641cdbef5a5014896576549d409773eb8caa5782b347cbbc63509e419c2ae"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_022500ms.jpg",
+      "size_bytes": 306990,
+      "sha256": "19c4ff39e146cfc418ffe7f26ab868a03241fd3ab8c6e5fb5fd74f02c4c506f7"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_023000ms.jpg",
+      "size_bytes": 305847,
+      "sha256": "1a5be9151c5184ba79b0cd5aaee41ebb22c62dd4f766df9838514c2f4830b469"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_023500ms.jpg",
+      "size_bytes": 305078,
+      "sha256": "604aeeb68a7f0f63029c42d8ad6860458a463d26b6f71afd2de7fd0dec01e173"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_024000ms.jpg",
+      "size_bytes": 303226,
+      "sha256": "05d126a4853f71287b841cf4f47e11e466869635e122a82343d3b51d8e037478"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_024500ms.jpg",
+      "size_bytes": 304261,
+      "sha256": "5fec0be4cfa80e1ceeaab30556402f9e8163266c6dc409d0d806e51d6127273a"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_025000ms.jpg",
+      "size_bytes": 303169,
+      "sha256": "227d29697534803e40ce5046d5d734547136c75a74db511c8f970f070c3b10ce"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_025500ms.jpg",
+      "size_bytes": 302707,
+      "sha256": "142f6832e912a141692c28436b7fbfc24ec6a6332a4c072ab6e338dea96f7da0"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_026000ms.jpg",
+      "size_bytes": 302674,
+      "sha256": "3eb5009f17d4a997785cf3675b3b85959d40b5e2e702a756f005bca29a6d4d88"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_026500ms.jpg",
+      "size_bytes": 266925,
+      "sha256": "458831aaea4f4d83100c19926099e7df6e4732ffa9003e67e3827ee86554da93"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_027000ms.jpg",
+      "size_bytes": 292934,
+      "sha256": "bc948ce529877a0466729e16aff14dbf30428392acc15f0b2b77446a9f8885dd"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_027500ms.jpg",
+      "size_bytes": 297543,
+      "sha256": "d94cd14b3eeec2e94b0eaa89fdaaf2d405c2b392d04d079b06b4682b3cd42138"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_028000ms.jpg",
+      "size_bytes": 297271,
+      "sha256": "6ea68f544039cc3cc67d3cfbaacb7501e878f097d95ad1429db57b1c1d1f82a2"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_028500ms.jpg",
+      "size_bytes": 297878,
+      "sha256": "9d0d185685d7a3a9cc6cd244b72791b38292381abd4df09562248d4403238a20"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_029000ms.jpg",
+      "size_bytes": 298462,
+      "sha256": "88a0b194bd27244d18e4735b7079ec1ab7c0d1b1ad3a7012120b49a9d8b738f8"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_029500ms.jpg",
+      "size_bytes": 298714,
+      "sha256": "bda1fd75a31016ab4514bb8e82a5a37067fac0d0e2a0cb513c34c1b93dd8f064"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_030000ms.jpg",
+      "size_bytes": 298203,
+      "sha256": "6fda47e2bdfb332deecac76c8c3044d7378630571c6e80d3fbf0b2586d8bafdf"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_030500ms.jpg",
+      "size_bytes": 297796,
+      "sha256": "82c6674d1abff1db86551ef91b161ea94d4ec87949574ca30f13dc61c2dbf6bf"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_031000ms.jpg",
+      "size_bytes": 297501,
+      "sha256": "064bedb9b871796ae8b22547d52e348f22b905e7619ddc47932d30a372d2d0e9"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_031500ms.jpg",
+      "size_bytes": 297964,
+      "sha256": "fb1b3a661370680f49c5e0475128e77c14f7a1256ccf563cec203ee25b55d340"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_032000ms.jpg",
+      "size_bytes": 297099,
+      "sha256": "a927885232b75520c6596653ceacb26f23db13f292ae01d28dea7922029e9919"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_032500ms.jpg",
+      "size_bytes": 317568,
+      "sha256": "e29a8742d9053127eb5132ff0e168cc7cd4c5e6a06419883110743b706383b2f"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_033000ms.jpg",
+      "size_bytes": 316370,
+      "sha256": "a33020089f97fc671d68b9667d4e64713c413b6aae4908c8bcac0653bb2ce285"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_033500ms.jpg",
+      "size_bytes": 320955,
+      "sha256": "23528e913b161c5dd9914de74187b2ddef9bc75cda3144ef35a29ee191efda5a"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_034000ms.jpg",
+      "size_bytes": 319920,
+      "sha256": "5f0603f71f4459897db5e699173528b84f024dc41321bef059483a4df8c1cca3"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_034500ms.jpg",
+      "size_bytes": 320007,
+      "sha256": "3982d9cbad7b9590357febf17494551c01fc55c4a6e2ec6e427d1f19c62df85c"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_035000ms.jpg",
+      "size_bytes": 320836,
+      "sha256": "de2e0ab3e7ac1ae3484a9d4360e77f53257ba546da9bcfebcf1b40cc8e30614f"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/frames/frame_035500ms.jpg",
+      "size_bytes": 320633,
+      "sha256": "a669a283357816db34ec68b79ff7c1b65ae59c6b9542fe63b962b54c1af73555"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/index.html",
+      "size_bytes": 66015,
+      "sha256": "84e97f44b30fbd35f5b0f27d0cedf06be77b356849452bbaab1bf722d651c950"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/manifests/FRAME_MANIFEST.json",
+      "size_bytes": 30628,
+      "sha256": "2d90828c60200d952e6ecbd957359c9569617adf3e2cfb04ab1be617a45a5290"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_01.jpg",
+      "size_bytes": 962484,
+      "sha256": "81cad5e564a712ef534bdcc5ab18ba9256b6a65d508e6cfe088f7119d46a4624"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_02.jpg",
+      "size_bytes": 1009733,
+      "sha256": "c8cc5898bbdcb9b022c6b36ff62e08252bb952d01a1fd716f87a6fd0751a6dc9"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_03.jpg",
+      "size_bytes": 1009701,
+      "sha256": "aeec3e470231cbba0a59c4df8baa0fbadc4c590f38deb857c7c21b9d525a186d"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_04.jpg",
+      "size_bytes": 1007646,
+      "sha256": "849b7c43f5c1ebc7f188bd916c798d3d0d11ccd2776bf930dd1186ca820db2a1"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_05.jpg",
+      "size_bytes": 1005635,
+      "sha256": "c95ac5575c48c769bf97b6158b71f7d14ac35491604c262bc1b48b888168070d"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_06.jpg",
+      "size_bytes": 998766,
+      "sha256": "68c3836aefcdc50cd8594daebc393f0ea04b49e91378036a7deea4341d23395b"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_07.jpg",
+      "size_bytes": 970770,
+      "sha256": "f06b4fc41b3d926c9faa0bf57e7b7c786b36b71fef5b66f4bedacf7cf3fb9117"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_08.jpg",
+      "size_bytes": 933774,
+      "sha256": "18a466c13dc6c2af9a1006dc96be5e5973df2c5b9711d16ce7fe8aa4a42a61c6"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/motion-strips/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_09.jpg",
+      "size_bytes": 997762,
+      "sha256": "0de4797355631f2f244decedd0caceafa2615d9a247d733b7eef3bcfc760545e"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "size_bytes": 946859,
+      "sha256": "40515dd54d4d08e03c89328ea43be52057357da2884dc69e26053bdd437988d4"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "size_bytes": 964822,
+      "sha256": "0c6249e1ed066efc8d384c6bb359c6fa71e468875919db6af5c24ead118850e2"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg",
+      "size_bytes": 533567,
+      "sha256": "9afd881b0233a8426b4b893ae3bc79c0eef8e0145d32d9b5135cdd4d2e4670df"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "size_bytes": 1003153,
+      "sha256": "44210a7cb475b3740b35d2e741f6b796dbe3a3a2e06cd33f3208cf6889105efe"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "size_bytes": 1001360,
+      "sha256": "09ad620d48e753f554fd16927d743a432185b703cd70fc4adcc0ba95787f1ee0"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg",
+      "size_bytes": 534420,
+      "sha256": "a69e7d1251838d96c309df9a61b041087d1c1fae5a232b32ab7639320ab00b7e"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_03_01.jpg",
+      "size_bytes": 990001,
+      "sha256": "d2758ccffcf51eeb94a3bd4671f5cc576b567ee9c8ee8a305ca6d823897ce429"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_03_02.jpg",
+      "size_bytes": 935709,
+      "sha256": "bce4a427f71e0d7a1bd723d32413ff34d9e1dedf40b70778653461fbeaa5d9f0"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_03_03.jpg",
+      "size_bytes": 491985,
+      "sha256": "01e6c783712e6a5c11e6950aee9531f37518038d3e8845b7d9bcad652244098f"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_04_01.jpg",
+      "size_bytes": 931740,
+      "sha256": "16643f70bc046583efa4b6a14ca95fa40b73698a187a96ff76b1656af854b21b"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_04_02.jpg",
+      "size_bytes": 971275,
+      "sha256": "09cca78a6f4766961fe49ba6a263754823e4728c591a84816d998420f121dbc2"
+    },
+    {
+      "path": "stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_04_03.jpg",
+      "size_bytes": 534549,
+      "sha256": "5abb66bf4542f816e531ac4f47a29723dd14eace9d39515db229b7b16fc5bf96"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/camera-environment/R3F_BROADCAST_BACKBONE_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg",
+      "size_bytes": 535114,
+      "sha256": "e5d8e34371a54d38243bbe982ad484d5d124833619c5c07521184d6b8d5a0f18"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/contact-sheets/R3F_BROADCAST_BACKBONE_PROOF_V1_MASTER_CONTACT_SHEET_01.jpg",
+      "size_bytes": 586077,
+      "sha256": "878d87689ff95ea559eb286eeb5903de4c312532feba3103cf1aa9faf974c55e"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/contact-sheets/R3F_BROADCAST_BACKBONE_PROOF_V1_MASTER_CONTACT_SHEET_02.jpg",
+      "size_bytes": 604808,
+      "sha256": "b95c8db899c03336e5bd38c29937f86263b0d932da9bef6f889908583a2813fc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/contact-sheets/R3F_BROADCAST_BACKBONE_PROOF_V1_MASTER_CONTACT_SHEET_03.jpg",
+      "size_bytes": 623237,
+      "sha256": "9d6f115207c3c8dbbb631f50d56ffb1dd34ef908f7ef538c57763376df0b1092"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/contact-sheets/R3F_BROADCAST_BACKBONE_PROOF_V1_MASTER_CONTACT_SHEET_04.jpg",
+      "size_bytes": 592732,
+      "sha256": "a766be79ba5c19ca6ca499c644e7c5f25f6ac833999f9fce491b5b0829aa3809"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/contact-sheets/R3F_BROADCAST_BACKBONE_PROOF_V1_MASTER_CONTACT_SHEET_05.jpg",
+      "size_bytes": 600475,
+      "sha256": "1e3ab5189cf37d7a82edc84deb1b8b6fc9785b35afa85515b4731dc4cfd69a2d"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/contact-sheets/R3F_BROADCAST_BACKBONE_PROOF_V1_MASTER_CONTACT_SHEET_06.jpg",
+      "size_bytes": 559868,
+      "sha256": "c183de123a1f4e01f91d3aea353e1e40f949905466f1339b616043906b4d422e"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/contact-sheets/R3F_BROADCAST_BACKBONE_PROOF_V1_MASTER_CONTACT_SHEET_07.jpg",
+      "size_bytes": 165313,
+      "sha256": "e650638bfae89e6c1aeb7e696d37abc93df98e4533310723b6f8dcd338014c32"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_000000ms.jpg",
+      "size_bytes": 194742,
+      "sha256": "a900923400f5717c8843297f9bca0ae201c3903ff0f1e31c827c19ce29983e0d"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_000500ms.jpg",
+      "size_bytes": 202521,
+      "sha256": "3cf0e7e6b23e884789641a80031b49c3a5f9e1a0be2e30cb4b155f73c9df321b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_001000ms.jpg",
+      "size_bytes": 203400,
+      "sha256": "c189062f21be18b0d15df512858a935668922d8c6e5021a7542859ff6fac6a67"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_001500ms.jpg",
+      "size_bytes": 192661,
+      "sha256": "eb1830217b7e935503bae4298abf52a2e68af4bebc31b0f88bc08a1944284cb2"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_002000ms.jpg",
+      "size_bytes": 193806,
+      "sha256": "927a10524e33c19d7f6ae03980fd9baed2967eafa4dcf55502375c7d6407656f"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_002500ms.jpg",
+      "size_bytes": 199806,
+      "sha256": "a54f594812f5e117e7474044c58cc264cc17806bd83f685f1f6f3398b405e969"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_003000ms.jpg",
+      "size_bytes": 199800,
+      "sha256": "74545f1230e798273b899c2a1d9c637a9884ad22cfd8cb7d89a0029fae242187"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_003500ms.jpg",
+      "size_bytes": 194966,
+      "sha256": "49f5ab33b52d81dfb2e98ee66485b503663b83fda24e16a8512350eb72127daf"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_004000ms.jpg",
+      "size_bytes": 190800,
+      "sha256": "56a56e7b0210f43488d40a546d06f48c68ea4e884ae35383965fedc0dfddea3c"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_004500ms.jpg",
+      "size_bytes": 193206,
+      "sha256": "2d9c6733cc74e16685bd96700e50fe4beb1638316a2b2627204d19a27bb9e380"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_005000ms.jpg",
+      "size_bytes": 193169,
+      "sha256": "28beca22374fc57b759eac9d5a56bf64f8095604f28d62a8b9d3096338a62d39"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_005500ms.jpg",
+      "size_bytes": 193199,
+      "sha256": "5465b349c6bb8853229ed8693e048b7c11c418cfa4722c78be86003e497c6ada"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_006000ms.jpg",
+      "size_bytes": 190974,
+      "sha256": "6b06d9761c02977f9b820b5078aae3e1b2e091e5c68304c50e5e771e3a93b476"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_006500ms.jpg",
+      "size_bytes": 190936,
+      "sha256": "17c17beb0d34e9e4b2b01a84ea3472341b8503402b6a829a864e7914a544d5ce"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_007000ms.jpg",
+      "size_bytes": 190927,
+      "sha256": "9b1460cb87b70caef2192f3ad4fbbb14bbf35cedf7c13ea8b9df84dcc7315094"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_007500ms.jpg",
+      "size_bytes": 190957,
+      "sha256": "a7857bc03bd928c118006397f5450c59e6a0bab314c8611670f998dc2bb900a9"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_008000ms.jpg",
+      "size_bytes": 190974,
+      "sha256": "6b06d9761c02977f9b820b5078aae3e1b2e091e5c68304c50e5e771e3a93b476"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_008500ms.jpg",
+      "size_bytes": 198349,
+      "sha256": "1db690cd36b7e790b8bf071c2188e0e5b220fc9d80d853f30ffbd069f44e82fc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_009000ms.jpg",
+      "size_bytes": 198966,
+      "sha256": "7e5c893f86ad8b6a9e21a49979ac255ba05a852384867b262be4df0a87dfe3e4"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_009500ms.jpg",
+      "size_bytes": 198908,
+      "sha256": "da56be3b5de3038df55580b26c2cdf37ccdaac6bcea2e9694ed1a175bfc41089"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_010000ms.jpg",
+      "size_bytes": 198366,
+      "sha256": "1b6814bed65d8f2457afbc093c7e7e3eb10e15fc314c537dadad0392b096c43d"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_010500ms.jpg",
+      "size_bytes": 198360,
+      "sha256": "329a8a09e70574404c07cd5edf104b95738710fe98747c03a7e70e1d70a04efc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_011000ms.jpg",
+      "size_bytes": 198360,
+      "sha256": "329a8a09e70574404c07cd5edf104b95738710fe98747c03a7e70e1d70a04efc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_011500ms.jpg",
+      "size_bytes": 191419,
+      "sha256": "649b64b5996a5bdb848a26f6da316724dc8692da9505ce38842170986ea3a1fc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_012000ms.jpg",
+      "size_bytes": 195888,
+      "sha256": "ef77a285cf7a79f695904ab2def74991cdb8d7bc88141bb588243c2d9d57def0"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_012500ms.jpg",
+      "size_bytes": 196043,
+      "sha256": "5b53d2adc3c28285868bfb4091832f9a9232556f7c96579c601ab0356f573b75"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_013000ms.jpg",
+      "size_bytes": 191481,
+      "sha256": "f83dea627fd5d32867392e7419a303625d732bd0602e02890a3c3617f30bb203"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_013500ms.jpg",
+      "size_bytes": 203392,
+      "sha256": "48b47d1c6444f61bc444d9b5c2fae43be7c3724059b8c66532a3319db6d94c7a"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_014000ms.jpg",
+      "size_bytes": 203361,
+      "sha256": "0ad3a05e14871a6b354909688246dce027abe8f2828b31462140a1df9d8d0e54"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_014500ms.jpg",
+      "size_bytes": 205659,
+      "sha256": "54cd53495b57d1236e6786161d44908538ffcbec5147022f6acfb4d913e29996"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_015000ms.jpg",
+      "size_bytes": 209678,
+      "sha256": "462e95174510e9ed25467d896729dc1fc9a7285fb65feeb268deb3dec345be74"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_015500ms.jpg",
+      "size_bytes": 210004,
+      "sha256": "5a31df4e22afb1d710e882fc76e00e9c3854c782daf46acb776c03b562da0465"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_016000ms.jpg",
+      "size_bytes": 207032,
+      "sha256": "2fc2d455dfb98908cb90b22de9a991ab17dbd98da835892da210f570eed8f068"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_016500ms.jpg",
+      "size_bytes": 207053,
+      "sha256": "e81615377f69b8ff05e1986628e3932eea4e7ed1a96f1db74b3d609ddbb84d03"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_017000ms.jpg",
+      "size_bytes": 207053,
+      "sha256": "e81615377f69b8ff05e1986628e3932eea4e7ed1a96f1db74b3d609ddbb84d03"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_017500ms.jpg",
+      "size_bytes": 207031,
+      "sha256": "3dee6859d7a544f1ef7c056045133e969efeb7271ce206e1c39ee5940a3fe0e5"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_018000ms.jpg",
+      "size_bytes": 207032,
+      "sha256": "2fc2d455dfb98908cb90b22de9a991ab17dbd98da835892da210f570eed8f068"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_018500ms.jpg",
+      "size_bytes": 207053,
+      "sha256": "e81615377f69b8ff05e1986628e3932eea4e7ed1a96f1db74b3d609ddbb84d03"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_019000ms.jpg",
+      "size_bytes": 207053,
+      "sha256": "e81615377f69b8ff05e1986628e3932eea4e7ed1a96f1db74b3d609ddbb84d03"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_019500ms.jpg",
+      "size_bytes": 207031,
+      "sha256": "3dee6859d7a544f1ef7c056045133e969efeb7271ce206e1c39ee5940a3fe0e5"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_020000ms.jpg",
+      "size_bytes": 207032,
+      "sha256": "2fc2d455dfb98908cb90b22de9a991ab17dbd98da835892da210f570eed8f068"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_020500ms.jpg",
+      "size_bytes": 207053,
+      "sha256": "e81615377f69b8ff05e1986628e3932eea4e7ed1a96f1db74b3d609ddbb84d03"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_021000ms.jpg",
+      "size_bytes": 207053,
+      "sha256": "e81615377f69b8ff05e1986628e3932eea4e7ed1a96f1db74b3d609ddbb84d03"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_021500ms.jpg",
+      "size_bytes": 208587,
+      "sha256": "61f0f33b32d618b7bea3cab54085458e592adf8be9bf1776a2418b223beddd20"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_022000ms.jpg",
+      "size_bytes": 208758,
+      "sha256": "424ddc44700aa4dec61bf7882256fde1288613dd79cd169a409f70db61cd18dd"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_022500ms.jpg",
+      "size_bytes": 208813,
+      "sha256": "02111f24473eac2f3c0b59556c191a5832529b6e1f8571cba08e3ca205dd8518"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_023000ms.jpg",
+      "size_bytes": 211411,
+      "sha256": "210c0e8472e6db37bf492794c1129b04d9d1f014c7093b9dacbd35811d7c040a"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_023500ms.jpg",
+      "size_bytes": 214622,
+      "sha256": "e27b7fa258fc1e81d161d01b47205fcb4ba71e51a6f66eb0274f8ea44634be72"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_024000ms.jpg",
+      "size_bytes": 210065,
+      "sha256": "19e2c1e7552da06457d748157b7a97618a0c721b0fcfa93ff0a6f74932ed2d6c"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_024500ms.jpg",
+      "size_bytes": 211446,
+      "sha256": "348acab2465968f7e2af3a6968dc105a49b0117e8e95fde7ef62d1b0d4fbb782"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_025000ms.jpg",
+      "size_bytes": 205686,
+      "sha256": "8a39c5e1bc5352642987964d38b4557ca4bf340d4a26256c85728beab5abb0d2"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_025500ms.jpg",
+      "size_bytes": 202060,
+      "sha256": "42a1cd60e573d307b6654c35f0e64782960fa921e3bc7f677a96cfb2b12b2d3d"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_026000ms.jpg",
+      "size_bytes": 202043,
+      "sha256": "57db348656646f856198f2810dd709ee2c626142d7213ec526ff59cd0a180aad"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_026500ms.jpg",
+      "size_bytes": 198987,
+      "sha256": "39463fa1930fb3a6a58ab2986e5a6b4c9bf2ed0459f8082de824d7bc67ca8213"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_027000ms.jpg",
+      "size_bytes": 197001,
+      "sha256": "8c0d10d78b314328e731b3929ddbdfba9b6054d42352f96d8b547f350b44e809"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_027500ms.jpg",
+      "size_bytes": 195420,
+      "sha256": "46a3a6e5fe9bcffa75ae6daca425aa7533fffbce74281f8aa58106e56adb8852"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_028000ms.jpg",
+      "size_bytes": 196905,
+      "sha256": "5e4c7b546f9ed3b130594063f831f5170ab1928c9ea427cf97cd28ba838fb546"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_028500ms.jpg",
+      "size_bytes": 196704,
+      "sha256": "22d0d788832b25675df5f331a63d818ad4ee1d5399cd9d66d0d2b1ffe26df9ea"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_029000ms.jpg",
+      "size_bytes": 188756,
+      "sha256": "2afcb3640df504bbeff409d59fc412578d39cb5a146e5f108e10db6280552b6e"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_029500ms.jpg",
+      "size_bytes": 190891,
+      "sha256": "d674ad18b08d36310ced23cfb6318e9dadb67270e0d3a82e14103804fce4c975"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_030000ms.jpg",
+      "size_bytes": 194046,
+      "sha256": "9273b74a670ef5d3d9e56ad0252de6691183e94418f081c2a7d6af9aeb067016"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_030500ms.jpg",
+      "size_bytes": 198631,
+      "sha256": "da5bc24ec33e527f7fef49656ebb06c4a1b072ba81b7d21025bbcfc224a0f77f"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_031000ms.jpg",
+      "size_bytes": 198503,
+      "sha256": "090bda593cfd780c4bf6d1bf4a18f8ae6bae2f55a45973b32c32d9680869329e"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_031500ms.jpg",
+      "size_bytes": 201718,
+      "sha256": "b08ba95fff9d60dfb23d2bdf6b1db2a6daae91c22c0f6308f868451d73f4709c"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_032000ms.jpg",
+      "size_bytes": 199431,
+      "sha256": "28089de04a28049075c36b9bf681f5a87b140725d5e9927a28291bab49726157"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_032500ms.jpg",
+      "size_bytes": 199435,
+      "sha256": "97eaa4223ece03aefc13e872356224e2e39cdb6a265606f0b4d207ed66bf0b86"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_033000ms.jpg",
+      "size_bytes": 199420,
+      "sha256": "ab0f058f6f3144a4e79e51660e77f63005a66d01ae24d723a9912d05d12fcaa2"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_033500ms.jpg",
+      "size_bytes": 199428,
+      "sha256": "d9a5ae513ab736318190dbf012d90e4fc5935e4cb99ab6f360b136dd9dc52c10"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_034000ms.jpg",
+      "size_bytes": 199146,
+      "sha256": "301b2dd63bcf1fa48ef34647bed4d252b0a979320023d5e3b0c64f96845f8734"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_034500ms.jpg",
+      "size_bytes": 199189,
+      "sha256": "869ea3b6cc998b683ac9ddb0c8e28f87445c65ec33512e9363c76887e9fb0bac"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_035000ms.jpg",
+      "size_bytes": 199185,
+      "sha256": "d2112c7423ff19a8aa2d234d5246827ef336debe97e9d788d6e2a6c42939cb42"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_035500ms.jpg",
+      "size_bytes": 199199,
+      "sha256": "59e3ff33438467f4a560a0c59bf62128842185f4cfe85ca1b1cc848aaa014c27"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_036000ms.jpg",
+      "size_bytes": 216811,
+      "sha256": "ecbd4ffde92493994a7ad9a642a85a0f06e81df20d4c113777d6cd0d5aa50789"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_036500ms.jpg",
+      "size_bytes": 211413,
+      "sha256": "2413d18ca9b8a3858817ae48b37efd5c35a13bdcf678e1bf971ec9a3240c4c02"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_037000ms.jpg",
+      "size_bytes": 212786,
+      "sha256": "c8e3b13901df5a70953e8c2252950836384ce2c5401da070b7c0478300179f38"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_037500ms.jpg",
+      "size_bytes": 214328,
+      "sha256": "a0b27c3dd36ec278f4b0a7956804e6ddadc4180897c35244c8c58faf614a8203"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_038000ms.jpg",
+      "size_bytes": 211026,
+      "sha256": "1bd5aba8562433f4e54a3b086a5432f5230ecc464722f381fb1686e9a821e66e"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_038500ms.jpg",
+      "size_bytes": 211024,
+      "sha256": "cdd220f43ab9deec9a4ab4903c5a82e9853d2ab182a617cc12c4660ab26aaab8"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_039000ms.jpg",
+      "size_bytes": 213309,
+      "sha256": "fee1e0285d5292408e2026e6f007643f978a59d6613d30131c70669597069f18"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_039500ms.jpg",
+      "size_bytes": 207223,
+      "sha256": "941287b30bffec5fb50f0183cf3d3093c84b6227fa8e62d7f6d418052ac9dbb6"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_040000ms.jpg",
+      "size_bytes": 204681,
+      "sha256": "9ac3ac6cce1d47b7bf48ffa227a2fc291114bb3e494f129b455873aac0298ae8"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_040500ms.jpg",
+      "size_bytes": 207680,
+      "sha256": "94cb4a3d9908f8d506dfe4db2b7f3f25df86ec5824dcb25ddc1230cac6875794"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_041000ms.jpg",
+      "size_bytes": 212005,
+      "sha256": "c853818742957da0a7413083228d95b10178a1594bdc1c6a89a1df9363b3b43c"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_041500ms.jpg",
+      "size_bytes": 209621,
+      "sha256": "423b30c9c1cc85188a7d42c4203d75924644b8c114fd9529bf9a21bc74982311"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_042000ms.jpg",
+      "size_bytes": 199283,
+      "sha256": "ecb521a8298b1e7ca62d926a1666716e216f00ab1fcbece4b1e8c2399887e6ee"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_042500ms.jpg",
+      "size_bytes": 192120,
+      "sha256": "d6fef1c3d38f86d78af66cfff3508253af96601d083d903dacfd54a48508f8d5"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_043000ms.jpg",
+      "size_bytes": 186161,
+      "sha256": "0d96a1c643402bac49ecc06567c9ad191eab46bb9bdb98bafe8ff2504a8cd4f3"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_043500ms.jpg",
+      "size_bytes": 186430,
+      "sha256": "1ac3cfc6406241c54dd8b5ffa4c7f7be23e52e48ad04ee4e13031445f98ee0fb"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_044000ms.jpg",
+      "size_bytes": 185340,
+      "sha256": "117e4d028536c716b212b05711d4b6faa6c4555c0eb8e714fa4a35eeee2e5f5b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_044500ms.jpg",
+      "size_bytes": 185340,
+      "sha256": "117e4d028536c716b212b05711d4b6faa6c4555c0eb8e714fa4a35eeee2e5f5b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_045000ms.jpg",
+      "size_bytes": 185340,
+      "sha256": "117e4d028536c716b212b05711d4b6faa6c4555c0eb8e714fa4a35eeee2e5f5b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_045500ms.jpg",
+      "size_bytes": 185340,
+      "sha256": "117e4d028536c716b212b05711d4b6faa6c4555c0eb8e714fa4a35eeee2e5f5b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_046000ms.jpg",
+      "size_bytes": 184360,
+      "sha256": "36c1df51a4acd59da234f34bd59aaa7be726b3633b384f17475b6884b0a1a57d"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_046500ms.jpg",
+      "size_bytes": 184386,
+      "sha256": "b58257d98f400b025aa377d023a7aeec79c43ffff09703da23de8c46b0269db6"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_047000ms.jpg",
+      "size_bytes": 184386,
+      "sha256": "b58257d98f400b025aa377d023a7aeec79c43ffff09703da23de8c46b0269db6"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_047500ms.jpg",
+      "size_bytes": 184387,
+      "sha256": "d56f18b58a7226ce92c8c922a4813b60355b4e122538d7fd54f268dc0e3d66cc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_048000ms.jpg",
+      "size_bytes": 184360,
+      "sha256": "36c1df51a4acd59da234f34bd59aaa7be726b3633b384f17475b6884b0a1a57d"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_048500ms.jpg",
+      "size_bytes": 184386,
+      "sha256": "b58257d98f400b025aa377d023a7aeec79c43ffff09703da23de8c46b0269db6"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_049000ms.jpg",
+      "size_bytes": 184386,
+      "sha256": "b58257d98f400b025aa377d023a7aeec79c43ffff09703da23de8c46b0269db6"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_049500ms.jpg",
+      "size_bytes": 184387,
+      "sha256": "d56f18b58a7226ce92c8c922a4813b60355b4e122538d7fd54f268dc0e3d66cc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_050000ms.jpg",
+      "size_bytes": 184360,
+      "sha256": "36c1df51a4acd59da234f34bd59aaa7be726b3633b384f17475b6884b0a1a57d"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_050500ms.jpg",
+      "size_bytes": 184386,
+      "sha256": "b58257d98f400b025aa377d023a7aeec79c43ffff09703da23de8c46b0269db6"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_051000ms.jpg",
+      "size_bytes": 194392,
+      "sha256": "ae9b7ce918fa8b34a0192ab64846a7790453b7fce0c1f2cf1b42d238d012fa0b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_051500ms.jpg",
+      "size_bytes": 195116,
+      "sha256": "c036934a26504bc441e9b477d9a122c90c55f108ae1cb3460c510ed3f4474b3f"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_052000ms.jpg",
+      "size_bytes": 194314,
+      "sha256": "d498caa41a7f7e434a1a75b182c6d2ce75650315f2937ffb9fa3207077d5d42f"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_052500ms.jpg",
+      "size_bytes": 194345,
+      "sha256": "442efdb64e7eef924787f9f751529b2f8466492599fd3e7711c0eca2c82be099"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_053000ms.jpg",
+      "size_bytes": 194345,
+      "sha256": "442efdb64e7eef924787f9f751529b2f8466492599fd3e7711c0eca2c82be099"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_053500ms.jpg",
+      "size_bytes": 194345,
+      "sha256": "532cdf2e24dcd7a5a8aa181207f9da89700f7fc30262692f74c27d3a07a0ac65"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_054000ms.jpg",
+      "size_bytes": 194314,
+      "sha256": "d498caa41a7f7e434a1a75b182c6d2ce75650315f2937ffb9fa3207077d5d42f"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_054500ms.jpg",
+      "size_bytes": 194345,
+      "sha256": "442efdb64e7eef924787f9f751529b2f8466492599fd3e7711c0eca2c82be099"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_055000ms.jpg",
+      "size_bytes": 184413,
+      "sha256": "b1db81762379d5433d8ab28150d200b3de0c393c93935f572aaf200a7458cc00"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/frames/frame_055500ms.jpg",
+      "size_bytes": 184370,
+      "sha256": "dba2f1fda9ecde2f5d75a14c700fec456512fc73d09c47ac0d86f051b7e12e65"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/index.html",
+      "size_bytes": 103421,
+      "sha256": "b5aa4eac013e70a70b855d3bba1693731e282a0195a477fc739f4fca4ea29c4f"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/manifests/FRAME_MANIFEST.json",
+      "size_bytes": 46588,
+      "sha256": "cdc5990fe1060ef97f52392f85d1442545d5fd071424085d26d3a14a699465b2"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_01.jpg",
+      "size_bytes": 723872,
+      "sha256": "e9955d2eca032e934577409b555a5cc98c86894722d155bfcc616f60e53aced5"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_02.jpg",
+      "size_bytes": 702348,
+      "sha256": "a7f9dfd0ed28925fc99590bb8b553af6fdc661e615d5b1d7497c138a89289601"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_03.jpg",
+      "size_bytes": 712789,
+      "sha256": "2802b88714036c9ec7499f15c174fda589225459ba0afa65206c8ff8bf93aed8"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_04.jpg",
+      "size_bytes": 737808,
+      "sha256": "33a3c8a93ed63fadf31ab8ca194250d7e6c48b4cff283c2d5f2e19163ae78b7b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_05.jpg",
+      "size_bytes": 761239,
+      "sha256": "e2fb8434295041a70742e88eb1d83286798ccc3b2ee42096a0ada6af2be538ea"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_06.jpg",
+      "size_bytes": 764939,
+      "sha256": "17aa2300216c185ed3045686392214b101ce2dd22f8c319348f861b834a7e16b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_07.jpg",
+      "size_bytes": 749770,
+      "sha256": "f766b50d6d42c010052255c09dc7e90618ded8c6ee53c362e3d23837137abf79"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_08.jpg",
+      "size_bytes": 719120,
+      "sha256": "e5bcb1cc631292e211d02bbbbf0e31b6f37e43d8bb162b28f2d0e4838a8f3996"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_09.jpg",
+      "size_bytes": 720439,
+      "sha256": "185e047aeab318118db919c0e75a8964f81159fb3b05879d9d16b398e11f89bc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_10.jpg",
+      "size_bytes": 753297,
+      "sha256": "72c7aa5908362f75fb488a53e4f185e07a5295b39efc6d07a2414d82bc981725"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_11.jpg",
+      "size_bytes": 724402,
+      "sha256": "e8edb8d78296e1fbd5c03a270ffabe6073ac0ae06701ee1505d2d5136d0c2b12"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_12.jpg",
+      "size_bytes": 680503,
+      "sha256": "9cdc9b789fd0013da3fd0ad2a2a4b823641fcb2316e037cc7097ed5bfe580118"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_13.jpg",
+      "size_bytes": 685204,
+      "sha256": "0031e4bca0835d87aa503afeb284fb97886893df1ab182e46676e4dfffc2532e"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/motion-strips/R3F_BROADCAST_BACKBONE_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_14.jpg",
+      "size_bytes": 699102,
+      "sha256": "daa03d6883cab210164b46c6f6595e8c26c3aecb8c9fa264dd80b3c4effaa9a6"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_01.jpg",
+      "size_bytes": 723638,
+      "sha256": "caf42a9466db6b7da987b3b31b6126d0a75db1894b8348a3523404ff8a7097a4"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_02.jpg",
+      "size_bytes": 716724,
+      "sha256": "51deb9e1dd87d37fd098e3bb08e55f2f776405536a803feacd91b632f037f797"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_03.jpg",
+      "size_bytes": 706500,
+      "sha256": "1462db512ca2ef337cdeaab97d9af97f9466fbc88cc731634270c3a31ddd1fea"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_04.jpg",
+      "size_bytes": 699140,
+      "sha256": "f43496b54c3d34b75a44ed4dcbeb2cc031d815b591185b400e2829af96a98b9f"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_05.jpg",
+      "size_bytes": 84437,
+      "sha256": "b602ee7ef36a45396009f95378401ae395f3d9293ceecba4af3ea720e540651a"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_01.jpg",
+      "size_bytes": 753012,
+      "sha256": "da1017ea9a5fb92c3838d8ff85f8645d03a0c8d97c47de1a02cdb697f0938a2b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_02.jpg",
+      "size_bytes": 745138,
+      "sha256": "3f9993b352b1614af2ce9d516f964a7edb6ffd0c122903639f779221b5a6160c"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_03.jpg",
+      "size_bytes": 743288,
+      "sha256": "a54cdcaf73d4ea03623f3a1a3779e3f34d2788c869bc5e43492b13f024824493"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_04.jpg",
+      "size_bytes": 740919,
+      "sha256": "a5e3968d58793b93de5d8a4fe19f5f295e26e7955ddcb69230ee69a4f3a93817"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_05.jpg",
+      "size_bytes": 687824,
+      "sha256": "b7c3851f74c4379104e2f1707cfdf030df7363e736db3cd0774e0d554375908e"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_06.jpg",
+      "size_bytes": 676801,
+      "sha256": "367039830ddf193a4d79058161a8eac10f089afd6041b53d7ac4b45d092e009a"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_07.jpg",
+      "size_bytes": 676497,
+      "sha256": "b07f2d05926449c6929de739ac35e0847338e3ae208ab34c41645de43eb4f3bc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_08.jpg",
+      "size_bytes": 676228,
+      "sha256": "d0c20239d902d7ad03ca74c9e842da336a9c2b634ebf3afbe297e1c1ce476948"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_09.jpg",
+      "size_bytes": 676507,
+      "sha256": "8a890627299d0a881ed04d906cdbfb17b1737c051cc3055c2ee36cd511ceb2cc"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_10.jpg",
+      "size_bytes": 688507,
+      "sha256": "0808c4124b397a55104b395d1fb84b4f2dda8e040c26efef5d23b29ca33543ae"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_11.jpg",
+      "size_bytes": 701518,
+      "sha256": "87592ad54e7c9f76833a65279ed2f91c5bc3675066bda6ab59c0b10efdf125a6"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_12.jpg",
+      "size_bytes": 215184,
+      "sha256": "d65867a1679c1954fa467f8c480204faa530fead870ea5a08f605981584eaa0c"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "size_bytes": 718015,
+      "sha256": "1b24dd7bbf7e06316da20e89348e93002c749388a28572e26ffae4a13714f072"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "size_bytes": 698604,
+      "sha256": "8cb1573068aa906c28cf3614f2274638643cb5ff1cdefb21ed945bb74e077ffa"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg",
+      "size_bytes": 376847,
+      "sha256": "7eff17b7b3e8378c640f98fc7357838f3b571b2ff09be240d7402fcd5cfb3516"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "size_bytes": 701551,
+      "sha256": "b4ce4cea800c1d47611e8d16ca7ca762a952c8ef0eda209b08f59a76fde6d724"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "size_bytes": 734507,
+      "sha256": "ab360b4943cce2814e4f0ab3c930c441d30d9a889906cfe5ae509416bfc398c3"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg",
+      "size_bytes": 407944,
+      "sha256": "1d8732fdc547a975a4b3a7ddcf9fd44938c1d864bd31b006553487862b864b53"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_03_01.jpg",
+      "size_bytes": 726034,
+      "sha256": "1493cbdd83d20c6ff4605793a1400c834097b75cdc82140997fea7ebcfacbbe3"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_03_02.jpg",
+      "size_bytes": 705155,
+      "sha256": "3ba720e08a39bdcb2ddce47ac11f771d844586784bdd9719e0637a8d87893e70"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_03_03.jpg",
+      "size_bytes": 385216,
+      "sha256": "48545e2b5cd3962a636ca1ae4eb05b5cfc04c795cf550c30e100b6348f9f2231"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_04_01.jpg",
+      "size_bytes": 719231,
+      "sha256": "6aef49e1e8e35a1f3b5f93ca61a30811e860105dea62607c7c954b0617561162"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_04_02.jpg",
+      "size_bytes": 751841,
+      "sha256": "bd7686fec1a7fbb03407d7aed37d29a6a4bdb8cc6915709eeedc6746b974552b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_04_03.jpg",
+      "size_bytes": 400812,
+      "sha256": "999f182567f4dd3de67a5b9bcba88892ffbbfe49d2c51b15d5acbf543d1e536b"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_05_01.jpg",
+      "size_bytes": 676470,
+      "sha256": "4b9953170d62295776fa390b175293b809f511a6b76d52a9835690beb3c7582d"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_05_02.jpg",
+      "size_bytes": 691475,
+      "sha256": "5b350f5c888eed86731f315f440eeb90e191926a94b2f691fa087320257ca5e5"
+    },
+    {
+      "path": "stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_05_03.jpg",
+      "size_bytes": 378215,
+      "sha256": "3b9359fdd69616c533d75d2f15df162105638ca532ea1dc53260827eb2eb4773"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/camera-environment/BETWEEN_PLAY_CONTINUITY_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg",
+      "size_bytes": 368374,
+      "sha256": "3823361fce907ed69c5266a6a3df3e04c595acc181d6ccec1ae2a91a87667232"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/contact-sheets/BETWEEN_PLAY_CONTINUITY_PROOF_V1_MASTER_CONTACT_SHEET_01.jpg",
+      "size_bytes": 560306,
+      "sha256": "e2a26a442550899bc826764062fe026e2cffa8553472b1a7ff57a87caf7c60ca"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/contact-sheets/BETWEEN_PLAY_CONTINUITY_PROOF_V1_MASTER_CONTACT_SHEET_02.jpg",
+      "size_bytes": 505590,
+      "sha256": "8ba9d30def96743ac634a9bb32d087a31b31385ee2807d3f299bf8988ea12b5c"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/contact-sheets/BETWEEN_PLAY_CONTINUITY_PROOF_V1_MASTER_CONTACT_SHEET_03.jpg",
+      "size_bytes": 155628,
+      "sha256": "abeb595ed85a544c83c0b1d9f68666839368bed46c6fab1a4f6ba59fb2b8b5a0"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_000000ms.jpg",
+      "size_bytes": 140620,
+      "sha256": "e8e42141630431cc3a049b46f06ef3e3c8270451c9b4951efe26e67f69943c36"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_000500ms.jpg",
+      "size_bytes": 145308,
+      "sha256": "aca95a522717048a82b9ed061c05832ffe4a45575d5e27ba8939a77ebdc746c9"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_001000ms.jpg",
+      "size_bytes": 145387,
+      "sha256": "9c34e33989dad050bb3f9ba5c7a9219167baec061d9cfa778564df298ada4928"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_001500ms.jpg",
+      "size_bytes": 155188,
+      "sha256": "8163528149822fec9f7624820f2577a2d2188bd7596d24c0991a5777e63e50ac"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_002000ms.jpg",
+      "size_bytes": 154829,
+      "sha256": "9543e86f7f5caac2d9701f696526fb3b4c186194aea0a1c14fa6295afe68ffdc"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_002500ms.jpg",
+      "size_bytes": 154825,
+      "sha256": "cacdc66c264363c6cbcbe589e800ec7bc5315dd897e0299248406f12e766dc37"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_003000ms.jpg",
+      "size_bytes": 154827,
+      "sha256": "f3af74b9c3524ee16cc09cfd20bf1a9033eb85c7692cb663af93021198170af4"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_003500ms.jpg",
+      "size_bytes": 154824,
+      "sha256": "48d1844fa25a005ce11d231e74db08a74da8247ccabef4f1f64834abf9f53d36"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_004000ms.jpg",
+      "size_bytes": 153894,
+      "sha256": "86cf55a53f66919ace2cebee27a26b71bec1c769ee336b58e5d705d20814e216"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_004500ms.jpg",
+      "size_bytes": 153889,
+      "sha256": "9b677918bf80d03fed45414bbcff6c0ce4fa00b8cc60f42bb8303f46df0254bc"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_005000ms.jpg",
+      "size_bytes": 148248,
+      "sha256": "1cc5345b9048bc706fb1bd0f1eb7c800c4adc7c07a18e49fd5acfe041b405ca7"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_005500ms.jpg",
+      "size_bytes": 240264,
+      "sha256": "c0e4b9ec5747200e4b8454e999c4e73bf6445d1889505fb1609e870351a2e780"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_006000ms.jpg",
+      "size_bytes": 262829,
+      "sha256": "f12a91682de65c562da3ca1ec77f315b282d5f63a7660d6b0f1c4a087078be33"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_006500ms.jpg",
+      "size_bytes": 263004,
+      "sha256": "26fb747557497ff5cec75aab58c703b065276e5b22fcbc7b0f83404427f55d66"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_007000ms.jpg",
+      "size_bytes": 262998,
+      "sha256": "f25d1d29bde39207da71fe1c784240396a9dcb439b4481616e21e2c2b823a70c"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_007500ms.jpg",
+      "size_bytes": 262998,
+      "sha256": "a8dd050c3fd11da351f31697b9c27069a040c217b13a0ad35d4520d4eae6165d"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_008000ms.jpg",
+      "size_bytes": 260288,
+      "sha256": "72add77fdb83a77355ddf1d0dfc44658140b96226fe732cea5a251e80bb8387a"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_008500ms.jpg",
+      "size_bytes": 260274,
+      "sha256": "54758acd6e52254e8aff2ba95cc3e61ae73400a9467a180b0d0a7e7e0acdc797"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_009000ms.jpg",
+      "size_bytes": 260273,
+      "sha256": "090c17cd90980491a18cda40c4bdaa21ace2eefba4121a5b0886a660d961936c"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_009500ms.jpg",
+      "size_bytes": 178776,
+      "sha256": "3735d9bfc897b25c07aa72be512d2e90305dcaa93ac1b3c4db8da846cb1ae3a1"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_010000ms.jpg",
+      "size_bytes": 147123,
+      "sha256": "8a196cb60363b05caf6907e74d49390ec1f8dd41b1d0cf6beadb3580b6f78ce3"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_010500ms.jpg",
+      "size_bytes": 148698,
+      "sha256": "fac9dc243560a26c24eae10e72e8758d817ce29a15c36ce1761c4c28031077ce"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_011000ms.jpg",
+      "size_bytes": 150225,
+      "sha256": "f990f777d5e2066b43cf724537cf66eef839409ed0a944b03a1945091d08ddc1"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_011500ms.jpg",
+      "size_bytes": 150234,
+      "sha256": "770e23d70057c8029dc6b9c0c712e93236296a1056b83f856ec37a52cfc82016"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_012000ms.jpg",
+      "size_bytes": 150521,
+      "sha256": "e32f60e234474744c010c1f6df022cd9b8eef800a4269d3ba9303422bfc863ac"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_012500ms.jpg",
+      "size_bytes": 150507,
+      "sha256": "bc1c9fd55d430e67986ef2dbbcebb4c0f67e606f9a1f24fbc0f64f355cbca287"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_013000ms.jpg",
+      "size_bytes": 150510,
+      "sha256": "c6be84836a2ce185af5a697db25f5852c63f7060df1b5b0544573c02065f414b"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_013500ms.jpg",
+      "size_bytes": 150518,
+      "sha256": "6902ffa7d42b448c33a0e20e2186aa69a7f380bcdecf3762ca0c1cd4dd1ba0a2"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_014000ms.jpg",
+      "size_bytes": 155042,
+      "sha256": "a83980b7c75a06dc220a27344724897f9c465f9467cfdec72853ff6a435abda2"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_014500ms.jpg",
+      "size_bytes": 155039,
+      "sha256": "6a6d48184e5d665156598086ba7425924f061dbaae1202b9af7c231581f33c24"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_015000ms.jpg",
+      "size_bytes": 145452,
+      "sha256": "3c6dfad6481391b28fa3e22d839b9749e78343408ab8f3d3882aa23d3db014a9"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_015500ms.jpg",
+      "size_bytes": 155770,
+      "sha256": "9094ef44905524b293c2582a2819814ca74565f81d0d71c70c01e65f9117c539"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_016000ms.jpg",
+      "size_bytes": 154472,
+      "sha256": "b6c45a98617d9e331e1084d5834c3ce1884f2b3d8090371e7ef93b6fdef6fcf5"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_016500ms.jpg",
+      "size_bytes": 165316,
+      "sha256": "fb27dfca413524e73e4f7da86ec293af7eee17f25efd777e00bd30d49be1b5b1"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_017000ms.jpg",
+      "size_bytes": 169895,
+      "sha256": "b2ec6b99d4113342dd31400de072c0345cc76e43e257c182dbe9171c14d6502d"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_017500ms.jpg",
+      "size_bytes": 172514,
+      "sha256": "fdda542b5cc2866c17e308987fdbb602c2276868e4c420bddc4e7011e1ede56a"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_018000ms.jpg",
+      "size_bytes": 174833,
+      "sha256": "2975545ce4a445945d009337df913edb5cacb9e964c8a6d143590ae1d8191e9e"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_018500ms.jpg",
+      "size_bytes": 177480,
+      "sha256": "95b295aeae9f7a826b5ffa7c2d93bf29b72b83ffbbe8de7064d35c925016d48c"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_019000ms.jpg",
+      "size_bytes": 178615,
+      "sha256": "d6a6c650ad89674a2f34087fc17447f246c073e8d63802bad13b0d0d20345344"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/frames/frame_019500ms.jpg",
+      "size_bytes": 178616,
+      "sha256": "ca5cbfd87378d9c08fbec617717ed7ae87039008e476f40d086e89dd7cc6a20c"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/index.html",
+      "size_bytes": 40270,
+      "sha256": "b7eba1e2634c968924602696b4392beb2a94e94ef8c214b120e6b977a6705289"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/manifests/FRAME_MANIFEST.json",
+      "size_bytes": 16631,
+      "sha256": "5df7dd10f130f0547549f1ddbb196c61b4184b27894e7aa234ce852d3b860c41"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/motion-strips/BETWEEN_PLAY_CONTINUITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_01.jpg",
+      "size_bytes": 576776,
+      "sha256": "2cb5008e738e10f46c15d955e622715a63075a38286cbdab257186a0ec6d76f3"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/motion-strips/BETWEEN_PLAY_CONTINUITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_02.jpg",
+      "size_bytes": 734121,
+      "sha256": "914a8f8644ab3e02f4a8f2ae899012b0893f56ad6d30af86000c2d56a35484a1"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/motion-strips/BETWEEN_PLAY_CONTINUITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_03.jpg",
+      "size_bytes": 688088,
+      "sha256": "5fcfb6ec827c680196b5df01379c79ff91de3df3733c0d8b9e312ad416d95fc4"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/motion-strips/BETWEEN_PLAY_CONTINUITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_04.jpg",
+      "size_bytes": 578445,
+      "sha256": "5e10d82fd8fd85dd87bbefa1774dd9174e1b18a5e6f419a94f324a567c3f71ff"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/motion-strips/BETWEEN_PLAY_CONTINUITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_05.jpg",
+      "size_bytes": 629290,
+      "sha256": "4acfa2f4a4b01d235235e9efe101246dce732512b5c8557684cc35430fe4cc51"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "size_bytes": 577704,
+      "sha256": "82d8bcb4d03661bfaf0538a8922e6064d5fbdbf99432c273d0b7a832528d656e"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "size_bytes": 794359,
+      "sha256": "18e38ee6f707568c69a2a4b50ae51919b9fdde81600eab01abeb2bfb05583a97"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg",
+      "size_bytes": 446812,
+      "sha256": "122923c88b9cb98cac0e2683a1ea65f1f4770458ec5e5ba6efa845c07a3a694b"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "size_bytes": 835000,
+      "sha256": "a9763b30ef12e06f10200147d9561f0541f041e21e8ee20fedb61aae3868d36b"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "size_bytes": 617436,
+      "sha256": "fa78744f026819e45f85aa493c8d3068c493e707cd6ccaf582c177f588be4fd3"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg",
+      "size_bytes": 308067,
+      "sha256": "43944b8f9a7ab51754b7c9a617a6474984889c22ce5713c900f831969a513f6f"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_03_01.jpg",
+      "size_bytes": 576909,
+      "sha256": "24981f8a91e5f9e910865436e41f73be178543f9587255dc26290d6a9fcf9612"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_03_02.jpg",
+      "size_bytes": 603567,
+      "sha256": "b3960d67340824ac9e4a74cf6ef1bf6d7cf1d37082f0e6fefba01d7bb77af1c7"
+    },
+    {
+      "path": "stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_03_03.jpg",
+      "size_bytes": 340061,
+      "sha256": "785545c30148fd20ff6d12dc32a573d03883f0a22edaa9a333fc6cea58ad6fe6"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/camera-environment/MULTI_GAME_TRANSITION_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg",
+      "size_bytes": 474095,
+      "sha256": "df9f60ba6ea11b08ad84bb37cf0bfde08bcab62003bcee25c3cbceefb40e4109"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/contact-sheets/MULTI_GAME_TRANSITION_PROOF_V1_MASTER_CONTACT_SHEET_01.jpg",
+      "size_bytes": 505970,
+      "sha256": "2b2064cac78af70850b0130727a18677ee6e7989a1801f95ea5355cc234a8f88"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/contact-sheets/MULTI_GAME_TRANSITION_PROOF_V1_MASTER_CONTACT_SHEET_02.jpg",
+      "size_bytes": 530607,
+      "sha256": "06bd3798d26f8c64e0f101fdcffb07c66e3cbaf8c633735ad3df0806d3e10c7d"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/contact-sheets/MULTI_GAME_TRANSITION_PROOF_V1_MASTER_CONTACT_SHEET_03.jpg",
+      "size_bytes": 441751,
+      "sha256": "80758a4c672935d856e18762991827bb28a4f6031da38d3afa608e460cb335f5"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_000000ms.jpg",
+      "size_bytes": 150837,
+      "sha256": "f965f023553ad1bd1d67e18c0bdc266848ec05528277a9dc6edad095a8e3ba14"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_000500ms.jpg",
+      "size_bytes": 152854,
+      "sha256": "0fe608e1cfdc16e281f57431d4b3ae907d9b984cd0f79f44eab9f058e9350bc2"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_001000ms.jpg",
+      "size_bytes": 144900,
+      "sha256": "9d4179ebedbaef3b4b83f8f765a40a172ced765340fc99a22044605c5745b819"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_001500ms.jpg",
+      "size_bytes": 152895,
+      "sha256": "5de2db6ff66d5190f140ae14f78346de7b83092fc959a8bdf5fee8a1e29a90ab"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_002000ms.jpg",
+      "size_bytes": 152380,
+      "sha256": "2945b9ee5cb5b9eb60be0d550acfe5812d32fffc55eba852cd381aa7a747dc36"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_002500ms.jpg",
+      "size_bytes": 161950,
+      "sha256": "66ecaef3d707259545fa6c690ae3a0c44f03a1c1160a7d232c07c445ffb85165"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_003000ms.jpg",
+      "size_bytes": 168178,
+      "sha256": "0d34463aee5c3acf81e337fda83f505b96cf5bcd28f5b62ea8429a5567458ed5"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_003500ms.jpg",
+      "size_bytes": 171278,
+      "sha256": "8e09abc440f8d1e8ace398970b288f0fe9b909425d15a9d795bed0ebbe492736"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_004000ms.jpg",
+      "size_bytes": 173950,
+      "sha256": "23a14f662423f8d40e944f5de4b8e970af85a5f2122e8f2577e49872d7c7f6e1"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_004500ms.jpg",
+      "size_bytes": 176661,
+      "sha256": "054c6060dc007fa7d3df271bae60a408fb0325988462e6f7207e48345a1ae806"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_005000ms.jpg",
+      "size_bytes": 178801,
+      "sha256": "5550129838e9f18e35537e8d4450b79699abb79faaf43aaaa57f4f916c9a3a3a"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_005500ms.jpg",
+      "size_bytes": 178798,
+      "sha256": "a6137b2fcc1a2dad1298475e149f67e93c65b824cccf6ea6cc621af868cb7f4b"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_006000ms.jpg",
+      "size_bytes": 176359,
+      "sha256": "07b99dd06f95124ad50b01123e3137f90b520e26257a9a8b6645c682e6065331"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_006500ms.jpg",
+      "size_bytes": 176371,
+      "sha256": "4e7abfaa969565a6cdd4e959a91d42e01020dcc1fb99226944d81356c922816d"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_007000ms.jpg",
+      "size_bytes": 176369,
+      "sha256": "a05b623a3558d84d1baa4bbded550a1a4f427e1b31b21c4a580022c9cddad658"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_007500ms.jpg",
+      "size_bytes": 176395,
+      "sha256": "d2b0375273e343cff2903bae3e436bfdb96b5f67e14da95014c5a36014a17f32"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_008000ms.jpg",
+      "size_bytes": 176356,
+      "sha256": "d73cb16494fd8e8276de7b12b5b642bfb4ae2c518a1b960e3022b48a19df2d17"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_008500ms.jpg",
+      "size_bytes": 176366,
+      "sha256": "35f98b6ffbdb7f560185065ceff4b38ed0b220f77889a3afc04788a872f93a5d"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_009000ms.jpg",
+      "size_bytes": 176370,
+      "sha256": "df739595e34d7f626b8d0eb1d956c60020c14973c5dc76f704fc0a2940c6c145"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_009500ms.jpg",
+      "size_bytes": 176395,
+      "sha256": "d731d0738170631f3eaf6471138733ad757c46f87f1f2b37c093fd0398d9c457"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_010000ms.jpg",
+      "size_bytes": 176362,
+      "sha256": "d97718fa2527bcd014ba5713de8a26f85c00ba1860baca8d37b600047528e28d"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_010500ms.jpg",
+      "size_bytes": 176370,
+      "sha256": "cc6ad38a83055ae4f53368cc5915335dad76225bd5c07eae33c0e948959ba063"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_011000ms.jpg",
+      "size_bytes": 176373,
+      "sha256": "d004dc6ea90eec507c53f9dbf3a3044b30970060c0b92196bce9e6c141821c1e"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_011500ms.jpg",
+      "size_bytes": 176398,
+      "sha256": "7e1c8e21c0c79a6310efd0100bcbf3edd46d7ce7cd5bb98517659fe07bfa0cec"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_012000ms.jpg",
+      "size_bytes": 176362,
+      "sha256": "102cb2d9cafb6e7ff047e2294bba77c24b7494375bd95f3a4397753abff92f10"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_012500ms.jpg",
+      "size_bytes": 176372,
+      "sha256": "6775094121f974106d49d49c62dad0859938a90928a4043712b25fe0e3062bef"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_013000ms.jpg",
+      "size_bytes": 172778,
+      "sha256": "a3593e92dcc1e2a39a9b3a2488ddc3b7e9f6806669c4d5ba5b78a86a0b07e251"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_013500ms.jpg",
+      "size_bytes": 172558,
+      "sha256": "2797f2beb435bd43d0e0d23ac4f9f6e83d7d3e3cb6801ce17e0e6fa4763fc961"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_014000ms.jpg",
+      "size_bytes": 174499,
+      "sha256": "8a48a86c72ade25d3b087dba052f5661b552add38035007e3c9735ded3cdd18b"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_014500ms.jpg",
+      "size_bytes": 176488,
+      "sha256": "6a3d625b9afe9af36adf3421766d69bd514ab14cc2612302ade5266ec1758dbf"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_015000ms.jpg",
+      "size_bytes": 177122,
+      "sha256": "96c05c4e09f193886cfb6cacd6a84f612cfa1bde7d7125b6757965898d1a10b4"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_015500ms.jpg",
+      "size_bytes": 180875,
+      "sha256": "a2dab33cb6eaed0ba06fd9123e6504186cdd949eb896089ee3f2d0e494f53669"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_016000ms.jpg",
+      "size_bytes": 185528,
+      "sha256": "1639aba2705565f198e11a3974af9e9e81b65ecd108deddc474b3f0146d70b66"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_016500ms.jpg",
+      "size_bytes": 187675,
+      "sha256": "1bfe95bff47f8c3c0a15a712019e601d22bc34b59561338d4443e7a75ad29565"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_017000ms.jpg",
+      "size_bytes": 188997,
+      "sha256": "3f4d332142b97d8eec00e9398cdeb82bc6d2983383eae0414c4651e9ebebeafd"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_017500ms.jpg",
+      "size_bytes": 189544,
+      "sha256": "5276291e24d5af1db68dfa60750e8b14a8c554698859183a889c290fa7048aae"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_018000ms.jpg",
+      "size_bytes": 195144,
+      "sha256": "56a2bf912edcac045f7f0981c7b7e5b35a7d868d31890e13a8a980d5bc5e2b12"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_018500ms.jpg",
+      "size_bytes": 192662,
+      "sha256": "c824e89981664ab2f6e3ee996f13ef10ba31ad810d9f295e4addf52b58b38a36"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_019000ms.jpg",
+      "size_bytes": 187321,
+      "sha256": "926b2270362fc7414996735b13e1ede346459449c1e19cbdb2175c2a372ad8ac"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_019500ms.jpg",
+      "size_bytes": 194215,
+      "sha256": "771dd5a16e530211914754125d94c115beff67e276c5112a5ceb7307b081511d"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_020000ms.jpg",
+      "size_bytes": 185502,
+      "sha256": "1c2ee79d326e2c1c70bb03127d5093e73885cc0bc5c9a50d867af6c5f6ac174a"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_020500ms.jpg",
+      "size_bytes": 185560,
+      "sha256": "b8205fbb4322869b92b5944ab9af335d6a649e3b979b80ef8932eb63323ddf23"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_021000ms.jpg",
+      "size_bytes": 185898,
+      "sha256": "e34abe7694d2a4ef3ecd35ba4554577572ddc821067f40ae455f08ac141ae14c"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_021500ms.jpg",
+      "size_bytes": 182414,
+      "sha256": "ec5bc5c20d3e35ab85dd5ac5735303396b4d38ae613dc61e6ae64c0bf150eac1"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_022000ms.jpg",
+      "size_bytes": 184650,
+      "sha256": "53926c653d4b95567660f3fa2e18c2d42543b21d4bc59a46d36df1a54d54853b"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_022500ms.jpg",
+      "size_bytes": 188069,
+      "sha256": "95cb1d1829a84dae6b9f5e5f128b74a92775293b0c56c59cbed2a731a4eb0ce5"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_023000ms.jpg",
+      "size_bytes": 191104,
+      "sha256": "25259f8af8296fdd70efc39889f68fc1fff75e4a841651d0397cdf5374071212"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_023500ms.jpg",
+      "size_bytes": 191414,
+      "sha256": "e6c6a8cb33679671a935e00af7f7b3e6948d4304a4d87cbb1ebed3c45b485b18"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_024000ms.jpg",
+      "size_bytes": 190523,
+      "sha256": "ac78e2be8bdf4f2baa19621717e8836a88cc49c7eb11d13bf685d18a01d45a8f"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/frames/frame_024500ms.jpg",
+      "size_bytes": 190693,
+      "sha256": "90ab1d878790790cd7257d8ca9c6f4b030bbff822bc16818e3b7a0972f236c67"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/index.html",
+      "size_bytes": 50294,
+      "sha256": "278a21cae09ae66b08d045f54b94e9cd4c771626a18abc17abbd5029d647a300"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/manifests/FRAME_MANIFEST.json",
+      "size_bytes": 20701,
+      "sha256": "38ff478aadc8b715559c2439c61543ce5af358ef8d68ba5d7e47677771791068"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/motion-strips/MULTI_GAME_TRANSITION_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_01.jpg",
+      "size_bytes": 596933,
+      "sha256": "78435c8596e6a89ac423edb8da97b957c63395430e03c7b29458121f4353de5f"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/motion-strips/MULTI_GAME_TRANSITION_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_02.jpg",
+      "size_bytes": 640447,
+      "sha256": "03a9fcd0187e115ecf7ba5eabfbad7cc5c1781f9bfa10bf51ebd77450a1e8eb2"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/motion-strips/MULTI_GAME_TRANSITION_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_03.jpg",
+      "size_bytes": 639821,
+      "sha256": "3ed2a0a7fcd1dea9882c4a1dddf8c9df40530f885c3fd5358e97dd69a2c1c92c"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/motion-strips/MULTI_GAME_TRANSITION_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_04.jpg",
+      "size_bytes": 638868,
+      "sha256": "2789b4bdfbe5a8164b485260b1e2b128af3c5a16e5f0ad49ac8362d851d78240"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/motion-strips/MULTI_GAME_TRANSITION_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_05.jpg",
+      "size_bytes": 671950,
+      "sha256": "4a6ed2cf30ddb5e07a610642bdcbcc8068fc21d0ce488b0f77afa03cd54a77ac"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/motion-strips/MULTI_GAME_TRANSITION_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_06.jpg",
+      "size_bytes": 667768,
+      "sha256": "add4f5ff2b9a592507f113a3725ccc04cb84a5fa15db1fe3623074c026751a73"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/motion-strips/MULTI_GAME_TRANSITION_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_07.jpg",
+      "size_bytes": 208468,
+      "sha256": "cc946c000f02d50de0c2fc2d4f0cad1e16a5155da8bce24b7168a81ae8769bfa"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_01.jpg",
+      "size_bytes": 671021,
+      "sha256": "a492747c9f53b23ccdd2b02c05a14d74b1788fd160bccf469d5c25596bc07b4c"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_02.jpg",
+      "size_bytes": 670188,
+      "sha256": "0a44f91854d41a8dd63279a96345bdafc251ac3af4b45d2cb8f118e406b98360"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_03.jpg",
+      "size_bytes": 663387,
+      "sha256": "b3bc823c8c6b8ad347ed16d258e3c22a5838ad2d97905eaad8bffb4bd529b9b3"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_04.jpg",
+      "size_bytes": 659264,
+      "sha256": "b411ca00848941d1dfccf9742ace4b935fadb6a0e48e70953b0703ef2f6a5e73"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_05.jpg",
+      "size_bytes": 280787,
+      "sha256": "8127a8ae8f27d7ea6b3ca5e7637d6cbba4df02c01aa322b4cd01d1037f90061a"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "size_bytes": 574250,
+      "sha256": "171c6297f720c7582a49c295d780bd6903374d85af413cf1cd54be370c485105"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "size_bytes": 603276,
+      "sha256": "ab47ebd71af40a00976539db6dab3437b3904785e2338e3a49bcc62cb2b3d0e5"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg",
+      "size_bytes": 339614,
+      "sha256": "64e61eac496347d44bf9294a58714e236ee617199287fcb9e3ce104e0fae20dd"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "size_bytes": 627403,
+      "sha256": "0e5059253e3b7fcfb6ce7c62e2224c9e535d2a9a6862a4b98240300e28f4c836"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "size_bytes": 638222,
+      "sha256": "d427366577e16b8ec9cc3b584640c87f5f19fbf5704390259cbcf71806282804"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg",
+      "size_bytes": 351595,
+      "sha256": "bc009ecaa4be48e91c0ef4a46cc5f0ec7f79939b731b9a6711f74a378ee08914"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_03_01.jpg",
+      "size_bytes": 671021,
+      "sha256": "a492747c9f53b23ccdd2b02c05a14d74b1788fd160bccf469d5c25596bc07b4c"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_03_02.jpg",
+      "size_bytes": 670188,
+      "sha256": "0a44f91854d41a8dd63279a96345bdafc251ac3af4b45d2cb8f118e406b98360"
+    },
+    {
+      "path": "stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_03_03.jpg",
+      "size_bytes": 358455,
+      "sha256": "1550041f89117263c8f1732957287fa577ba59dfa260251dea34aa0800d7958d"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/camera-environment/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg",
+      "size_bytes": 289111,
+      "sha256": "9e99a1347d4917f5ec068bdac4529430bdb23b44fe96af13cc736c3e75ba914f"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/contact-sheets/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_MASTER_CONTACT_SHEET_01.jpg",
+      "size_bytes": 479361,
+      "sha256": "a11b01e3508253961bc546fd3b1b30f89806cd7f5b216ea35cc358bfb266c20e"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/contact-sheets/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_MASTER_CONTACT_SHEET_02.jpg",
+      "size_bytes": 190726,
+      "sha256": "4db4793e2e9096493761d2f30a1e92abdf033a6a8aee8de8f152137180114524"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_000000ms.jpg",
+      "size_bytes": 155507,
+      "sha256": "65089ace8ebbc6d3a3c98849a433b7fe29d10974acfe8076f332a384040b2971"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_000500ms.jpg",
+      "size_bytes": 160751,
+      "sha256": "cdc3d1a2c0dd6e27c41fae0cc3d44d56aff0c5130ff51ee5601559fe6ba38897"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_001000ms.jpg",
+      "size_bytes": 160744,
+      "sha256": "d7b65b2b539fec95ee0925826792cdf367e98bf5e963ea05f45ba65cdad6012b"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_001500ms.jpg",
+      "size_bytes": 160739,
+      "sha256": "9b767669c86e710309772bf756ad8679889ce37d3e3e1bf2d69e3663a1477084"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_002000ms.jpg",
+      "size_bytes": 159275,
+      "sha256": "e85f857fa171e556516fca0c44dcf6f902aa6a37aeb2cb472a1d6b6dcb23e692"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_002500ms.jpg",
+      "size_bytes": 159279,
+      "sha256": "b6cab0c5b8771fdc40307f203a5c162067655e380e54ff397ae3252d3bb2c138"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_003000ms.jpg",
+      "size_bytes": 158537,
+      "sha256": "acff9f5fc6a19e84c71c7fd9042f8dbda8dea8152a205c63cdd9a1d35ab72ec2"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_003500ms.jpg",
+      "size_bytes": 154231,
+      "sha256": "eae675466fa761256f53aef37b4fe307c5eff888b0e514049b17c4cceab0414c"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_004000ms.jpg",
+      "size_bytes": 160486,
+      "sha256": "70a8455e0ec92322fa20159e6097da04ba0e563b90cc4f2581954feb887c9775"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_004500ms.jpg",
+      "size_bytes": 154381,
+      "sha256": "3261d61ca49b24168eac7d8182ed51a46a8a3e1089ae7e57caf79955663e5c60"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_005000ms.jpg",
+      "size_bytes": 149240,
+      "sha256": "58919a17e573bc67ad57f8f10a8e132ed4922c6ce6b838768baddcfd329a106f"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_005500ms.jpg",
+      "size_bytes": 146865,
+      "sha256": "79b8321b5acacd59bdb5598e47eb7640c399a88b8690a46f7cd7662e82385e1e"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_006000ms.jpg",
+      "size_bytes": 146154,
+      "sha256": "b24ddf604e96600232858a1236ce2f91eaaf0aa1a8fe35be1fdbb306e5541f56"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_006500ms.jpg",
+      "size_bytes": 146349,
+      "sha256": "99ed9a19004e2063cf999dc286deaab8f3a7183530520e11bfded52851b861f8"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_007000ms.jpg",
+      "size_bytes": 146427,
+      "sha256": "931b81976174a9d1e960cfad7b3eda723c8bb736339b9b4cb4f82c4e656b23c4"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_007500ms.jpg",
+      "size_bytes": 155627,
+      "sha256": "f9aac7ed17903d5232db94fa4af34ca7675c43f8e9cb79c2c139e50b9c7715e3"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_008000ms.jpg",
+      "size_bytes": 154867,
+      "sha256": "3611597dc25184e3d10ea78c278ad8924129c1f4e63863f659262c0a8e9f97ef"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_008500ms.jpg",
+      "size_bytes": 154864,
+      "sha256": "ef825911673a392236f4e83d658d1a882c32ccaf2119d39271847ca5b20b6049"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_009000ms.jpg",
+      "size_bytes": 154862,
+      "sha256": "a0d3109b1da0cd8f1faa69da5c0795885c6dee45882ec20354387f9f0c77def8"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_009500ms.jpg",
+      "size_bytes": 154859,
+      "sha256": "bc8d8eed09e17061971334602c574b6a22b432f2c58d4964981e9c4db3d79655"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_010000ms.jpg",
+      "size_bytes": 153894,
+      "sha256": "86cf55a53f66919ace2cebee27a26b71bec1c769ee336b58e5d705d20814e216"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_010500ms.jpg",
+      "size_bytes": 153889,
+      "sha256": "9b677918bf80d03fed45414bbcff6c0ce4fa00b8cc60f42bb8303f46df0254bc"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_011000ms.jpg",
+      "size_bytes": 148248,
+      "sha256": "1cc5345b9048bc706fb1bd0f1eb7c800c4adc7c07a18e49fd5acfe041b405ca7"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/frames/frame_011500ms.jpg",
+      "size_bytes": 240264,
+      "sha256": "c0e4b9ec5747200e4b8454e999c4e73bf6445d1889505fb1609e870351a2e780"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/index.html",
+      "size_bytes": 38191,
+      "sha256": "f24dc8e82b25bdbffb2e81be08a467b87752df0bbd198bf430a7de113cae16bd"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/manifests/FRAME_MANIFEST.json",
+      "size_bytes": 9983,
+      "sha256": "8e4eb27acc45b2090946e0ac537d5db0628c70fbff0564d8fafdbbbd23e904ab"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/motion-strips/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_01.jpg",
+      "size_bytes": 609682,
+      "sha256": "e8009f129f7808b3557b9a06ecca43810fc28fec36c53d85cdfbd962d9eedbc7"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/motion-strips/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_02.jpg",
+      "size_bytes": 610138,
+      "sha256": "c40676afbefe4007ec5d5428cc2bdd334a3d606a881000f9620794c3d25b369d"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/motion-strips/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_03.jpg",
+      "size_bytes": 600539,
+      "sha256": "02a486009b351984de9dd268181b6dc1e69a497ef1b0b122a742404c61ab9be4"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/motion-strips/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_04.jpg",
+      "size_bytes": 569801,
+      "sha256": "1cf0dfc1565e1132090b501bb7fcf04ed904125b145725bb25adda0d70680580"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/motion-strips/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_05.jpg",
+      "size_bytes": 571522,
+      "sha256": "5e3756b35ab57dbf89e249740323e7fdd8b935852d559d5c0c2ff3ed2bab5777"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/motion-strips/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_06.jpg",
+      "size_bytes": 584241,
+      "sha256": "78d353a7879d092d575f7ea4d34ddc932da18ed6f7de74cc8d19fc06221b5430"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/motion-strips/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_07.jpg",
+      "size_bytes": 583043,
+      "sha256": "b607ae703e78214d02d057c650a98239d8f8459051792114013c8cdd84ee2f32"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/motion-strips/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_HIGH_CADENCE_MOTION_STRIP_08.jpg",
+      "size_bytes": 372877,
+      "sha256": "3ff5bd5c98230cd3a8dcf79577306b90b7e75d2f1d8b86c68043a6a98cc677e2"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_01.jpg",
+      "size_bytes": 605699,
+      "sha256": "ac4f4bb7ba16489b5d55befcc3cf5057a108d884694e06278fcd51b173b314a4"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_02.jpg",
+      "size_bytes": 606219,
+      "sha256": "479e0c32b91b6811eb238924a17bd70b9d082cc0f7cea269d4deaa840fe8fe39"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_03.jpg",
+      "size_bytes": 596428,
+      "sha256": "9fc0e00be0a8fe0b2322e30e1972000fcb43be4703b38a75722230bc2908d3ff"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_04.jpg",
+      "size_bytes": 565778,
+      "sha256": "e8631f2d168a315d1b7f495ade7cac663b85a3c614ad882d5dac7324d8931ced"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_05.jpg",
+      "size_bytes": 567411,
+      "sha256": "0fefea0948c0285b96b2f8de7fa054bec69b71683e283e1273e621ec400b822d"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_06.jpg",
+      "size_bytes": 580182,
+      "sha256": "6ad43ad1dea1256f315185bf1d2ea9f4e1f68cf6f451ed0527dbc6aeb644b55b"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_07.jpg",
+      "size_bytes": 578949,
+      "sha256": "7f69ae4929d4cd669cbcd7cc46a7196e5fe0c69e7a0a65046bc2d8bb86fc2f5e"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_08.jpg",
+      "size_bytes": 368771,
+      "sha256": "eecc887dc92a8f756a0fca57fb2a719435dd3c32ee941fb07a4e5a3df4dd3837"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "size_bytes": 606311,
+      "sha256": "0d8053f299c7f18587f92a79b83a9890182f857158986ecdea0d9cf4166f93e0"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "size_bytes": 601666,
+      "sha256": "4ed67410d2bcbdb271d1d79ccf70ce90c3a8f2b44fe8e10a996b51f38e81c0fd"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg",
+      "size_bytes": 315155,
+      "sha256": "6e5c30056ab763396b167413f5af4ec2e9d6cfcbbd7c2d77604e891efa2f7b77"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "size_bytes": 559507,
+      "sha256": "d62d492cec5bfece8b5eb34e057978c8734fee594bc60956a2284b2ef31ad74e"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "size_bytes": 576643,
+      "sha256": "eca856da8611663e90d995514f2897584468a59293be22a6e6948b599c87ead4"
+    },
+    {
+      "path": "stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg",
+      "size_bytes": 314788,
+      "sha256": "9adfec02504419bc2e635427a218c879a554464cfd01672ed0cb9bc552b9b6cd"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/camera-environment/R3F_BROADCAST_CONTINUITY_PROOF_V2_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg",
+      "size_bytes": 530132,
+      "sha256": "ef9b9d86e0803bbe725c89d142bb3d760ed047ae28b8f518c436fac84a0227bd"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/camera-environment/R3F_BROADCAST_CONTINUITY_PROOF_V2_CAMERA_ENVIRONMENT_EVIDENCE_02.jpg",
+      "size_bytes": 104010,
+      "sha256": "d6d62615ecce89b1b26bafde59e98496d1c63f263d6392d5741b7e3c0ba64608"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/contact-sheets/R3F_BROADCAST_CONTINUITY_PROOF_V2_MASTER_CONTACT_SHEET_01.jpg",
+      "size_bytes": 479861,
+      "sha256": "b6202b15a217a0e5b82da5593e148837f814e1bc5940cc407dfbaca856902732"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/contact-sheets/R3F_BROADCAST_CONTINUITY_PROOF_V2_MASTER_CONTACT_SHEET_02.jpg",
+      "size_bytes": 592116,
+      "sha256": "f1aa79f7c026004a12352d70c158487443c1fe7edb22f1a92ea15522448b379b"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/contact-sheets/R3F_BROADCAST_CONTINUITY_PROOF_V2_MASTER_CONTACT_SHEET_03.jpg",
+      "size_bytes": 494953,
+      "sha256": "e16732aaee1efa3c297c67e933bde3ac057198f3a95289b2c71f4fd7e725d7b5"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/contact-sheets/R3F_BROADCAST_CONTINUITY_PROOF_V2_MASTER_CONTACT_SHEET_04.jpg",
+      "size_bytes": 526931,
+      "sha256": "d32da3f5b648527efdd4f809ed9328db286d8fb9677271fc89320700b7624592"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/contact-sheets/R3F_BROADCAST_CONTINUITY_PROOF_V2_MASTER_CONTACT_SHEET_05.jpg",
+      "size_bytes": 550565,
+      "sha256": "1bf441a0473cd47b17b524aa765d49e3a295f4969bb69ed4a21bc90ad525b6f4"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/contact-sheets/R3F_BROADCAST_CONTINUITY_PROOF_V2_MASTER_CONTACT_SHEET_06.jpg",
+      "size_bytes": 329331,
+      "sha256": "c9404da654cedf4bfa87a582afbcb26dd6de2b9cf7d8158f17c8e6f691b079e9"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_000000ms.jpg",
+      "size_bytes": 155507,
+      "sha256": "65089ace8ebbc6d3a3c98849a433b7fe29d10974acfe8076f332a384040b2971"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_000500ms.jpg",
+      "size_bytes": 160751,
+      "sha256": "cdc3d1a2c0dd6e27c41fae0cc3d44d56aff0c5130ff51ee5601559fe6ba38897"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_001000ms.jpg",
+      "size_bytes": 160744,
+      "sha256": "d7b65b2b539fec95ee0925826792cdf367e98bf5e963ea05f45ba65cdad6012b"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_001500ms.jpg",
+      "size_bytes": 160739,
+      "sha256": "9b767669c86e710309772bf756ad8679889ce37d3e3e1bf2d69e3663a1477084"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_002000ms.jpg",
+      "size_bytes": 159275,
+      "sha256": "e85f857fa171e556516fca0c44dcf6f902aa6a37aeb2cb472a1d6b6dcb23e692"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_002500ms.jpg",
+      "size_bytes": 159279,
+      "sha256": "b6cab0c5b8771fdc40307f203a5c162067655e380e54ff397ae3252d3bb2c138"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_003000ms.jpg",
+      "size_bytes": 158537,
+      "sha256": "acff9f5fc6a19e84c71c7fd9042f8dbda8dea8152a205c63cdd9a1d35ab72ec2"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_003500ms.jpg",
+      "size_bytes": 154231,
+      "sha256": "eae675466fa761256f53aef37b4fe307c5eff888b0e514049b17c4cceab0414c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_004000ms.jpg",
+      "size_bytes": 160486,
+      "sha256": "70a8455e0ec92322fa20159e6097da04ba0e563b90cc4f2581954feb887c9775"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_004500ms.jpg",
+      "size_bytes": 154381,
+      "sha256": "3261d61ca49b24168eac7d8182ed51a46a8a3e1089ae7e57caf79955663e5c60"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_005000ms.jpg",
+      "size_bytes": 149240,
+      "sha256": "58919a17e573bc67ad57f8f10a8e132ed4922c6ce6b838768baddcfd329a106f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_005500ms.jpg",
+      "size_bytes": 146865,
+      "sha256": "79b8321b5acacd59bdb5598e47eb7640c399a88b8690a46f7cd7662e82385e1e"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_006000ms.jpg",
+      "size_bytes": 146154,
+      "sha256": "b24ddf604e96600232858a1236ce2f91eaaf0aa1a8fe35be1fdbb306e5541f56"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_006500ms.jpg",
+      "size_bytes": 146349,
+      "sha256": "99ed9a19004e2063cf999dc286deaab8f3a7183530520e11bfded52851b861f8"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_007000ms.jpg",
+      "size_bytes": 146427,
+      "sha256": "931b81976174a9d1e960cfad7b3eda723c8bb736339b9b4cb4f82c4e656b23c4"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_007500ms.jpg",
+      "size_bytes": 155627,
+      "sha256": "f9aac7ed17903d5232db94fa4af34ca7675c43f8e9cb79c2c139e50b9c7715e3"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_008000ms.jpg",
+      "size_bytes": 154867,
+      "sha256": "3611597dc25184e3d10ea78c278ad8924129c1f4e63863f659262c0a8e9f97ef"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_008500ms.jpg",
+      "size_bytes": 154864,
+      "sha256": "ef825911673a392236f4e83d658d1a882c32ccaf2119d39271847ca5b20b6049"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_009000ms.jpg",
+      "size_bytes": 154862,
+      "sha256": "a0d3109b1da0cd8f1faa69da5c0795885c6dee45882ec20354387f9f0c77def8"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_009500ms.jpg",
+      "size_bytes": 154859,
+      "sha256": "bc8d8eed09e17061971334602c574b6a22b432f2c58d4964981e9c4db3d79655"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_010000ms.jpg",
+      "size_bytes": 153894,
+      "sha256": "86cf55a53f66919ace2cebee27a26b71bec1c769ee336b58e5d705d20814e216"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_010500ms.jpg",
+      "size_bytes": 153889,
+      "sha256": "9b677918bf80d03fed45414bbcff6c0ce4fa00b8cc60f42bb8303f46df0254bc"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_011000ms.jpg",
+      "size_bytes": 148248,
+      "sha256": "1cc5345b9048bc706fb1bd0f1eb7c800c4adc7c07a18e49fd5acfe041b405ca7"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_011500ms.jpg",
+      "size_bytes": 240264,
+      "sha256": "c0e4b9ec5747200e4b8454e999c4e73bf6445d1889505fb1609e870351a2e780"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_012000ms.jpg",
+      "size_bytes": 262829,
+      "sha256": "f12a91682de65c562da3ca1ec77f315b282d5f63a7660d6b0f1c4a087078be33"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_012500ms.jpg",
+      "size_bytes": 263007,
+      "sha256": "2afe3f344940ac60b737679292be1c6fe45df3881c2c2f19cc35a33dd6979d2e"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_013000ms.jpg",
+      "size_bytes": 263006,
+      "sha256": "fc70c45a8e1ebbe37661701ef0183eef6f822067b0020a757ff38f09d6441b8e"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_013500ms.jpg",
+      "size_bytes": 263002,
+      "sha256": "a00ad2c8257512d3287c547c50dac32add468e7d4d33fcca5c2ca00a122e86ec"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_014000ms.jpg",
+      "size_bytes": 260288,
+      "sha256": "72add77fdb83a77355ddf1d0dfc44658140b96226fe732cea5a251e80bb8387a"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_014500ms.jpg",
+      "size_bytes": 260274,
+      "sha256": "54758acd6e52254e8aff2ba95cc3e61ae73400a9467a180b0d0a7e7e0acdc797"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_015000ms.jpg",
+      "size_bytes": 260273,
+      "sha256": "090c17cd90980491a18cda40c4bdaa21ace2eefba4121a5b0886a660d961936c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_015500ms.jpg",
+      "size_bytes": 178776,
+      "sha256": "3735d9bfc897b25c07aa72be512d2e90305dcaa93ac1b3c4db8da846cb1ae3a1"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_016000ms.jpg",
+      "size_bytes": 147123,
+      "sha256": "8a196cb60363b05caf6907e74d49390ec1f8dd41b1d0cf6beadb3580b6f78ce3"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_016500ms.jpg",
+      "size_bytes": 148698,
+      "sha256": "fac9dc243560a26c24eae10e72e8758d817ce29a15c36ce1761c4c28031077ce"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_017000ms.jpg",
+      "size_bytes": 150225,
+      "sha256": "f990f777d5e2066b43cf724537cf66eef839409ed0a944b03a1945091d08ddc1"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_017500ms.jpg",
+      "size_bytes": 150234,
+      "sha256": "770e23d70057c8029dc6b9c0c712e93236296a1056b83f856ec37a52cfc82016"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_018000ms.jpg",
+      "size_bytes": 150521,
+      "sha256": "e32f60e234474744c010c1f6df022cd9b8eef800a4269d3ba9303422bfc863ac"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_018500ms.jpg",
+      "size_bytes": 150507,
+      "sha256": "bc1c9fd55d430e67986ef2dbbcebb4c0f67e606f9a1f24fbc0f64f355cbca287"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_019000ms.jpg",
+      "size_bytes": 150510,
+      "sha256": "c6be84836a2ce185af5a697db25f5852c63f7060df1b5b0544573c02065f414b"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_019500ms.jpg",
+      "size_bytes": 150518,
+      "sha256": "6902ffa7d42b448c33a0e20e2186aa69a7f380bcdecf3762ca0c1cd4dd1ba0a2"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_020000ms.jpg",
+      "size_bytes": 155042,
+      "sha256": "a83980b7c75a06dc220a27344724897f9c465f9467cfdec72853ff6a435abda2"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_020500ms.jpg",
+      "size_bytes": 155039,
+      "sha256": "6a6d48184e5d665156598086ba7425924f061dbaae1202b9af7c231581f33c24"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_021000ms.jpg",
+      "size_bytes": 145452,
+      "sha256": "3c6dfad6481391b28fa3e22d839b9749e78343408ab8f3d3882aa23d3db014a9"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_021500ms.jpg",
+      "size_bytes": 155728,
+      "sha256": "badd5c22dd7c21f68ecd404c413eaff3edd6029023d8a346b7d35008c9a7dac7"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_022000ms.jpg",
+      "size_bytes": 154472,
+      "sha256": "b6c45a98617d9e331e1084d5834c3ce1884f2b3d8090371e7ef93b6fdef6fcf5"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_022500ms.jpg",
+      "size_bytes": 165097,
+      "sha256": "303099421568bc8aa746f6c2ec85fb6dd9f87614e4bdd71f15fff43bf2f18fe8"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_023000ms.jpg",
+      "size_bytes": 169998,
+      "sha256": "5b5e907192eae6b2a9d24741dc9a84226e9c85d5313398c7307415d9bc15ee30"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_023500ms.jpg",
+      "size_bytes": 172562,
+      "sha256": "90d4555f1dc49891710e995d15b1b0c02603c995b17b389f8ffd436105a8e83e"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_024000ms.jpg",
+      "size_bytes": 174833,
+      "sha256": "2975545ce4a445945d009337df913edb5cacb9e964c8a6d143590ae1d8191e9e"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_024500ms.jpg",
+      "size_bytes": 177480,
+      "sha256": "95b295aeae9f7a826b5ffa7c2d93bf29b72b83ffbbe8de7064d35c925016d48c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_025000ms.jpg",
+      "size_bytes": 178615,
+      "sha256": "d6a6c650ad89674a2f34087fc17447f246c073e8d63802bad13b0d0d20345344"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_025500ms.jpg",
+      "size_bytes": 178616,
+      "sha256": "ca5cbfd87378d9c08fbec617717ed7ae87039008e476f40d086e89dd7cc6a20c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_026000ms.jpg",
+      "size_bytes": 176691,
+      "sha256": "9cdac284949010390c949f0cb9b80043bffacdfee0977d41a75ee34f8751d102"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_026500ms.jpg",
+      "size_bytes": 176679,
+      "sha256": "13ede45e24b98879d699e4f79b5af2408c4744c3f5f7a5371b8be89e3cefb448"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_027000ms.jpg",
+      "size_bytes": 176673,
+      "sha256": "1c494691ec4d9121524509294f6404f556e289391139dd7150c0ec2b6e6ece8a"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_027500ms.jpg",
+      "size_bytes": 176679,
+      "sha256": "b55cd99c75bab740bba4cc227eed4dc2b2dc0a58874976a8b0bbd10f8e9452af"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_028000ms.jpg",
+      "size_bytes": 176693,
+      "sha256": "5b3f7895d5a6ba9b9f895fbdd12b7564180ca2ad70ec980637e4ed99112078a8"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_028500ms.jpg",
+      "size_bytes": 176671,
+      "sha256": "b0550e6ab1281fbe8cc3c70282db4236eb0cc84cc26a91203786bd4bf02138ab"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_029000ms.jpg",
+      "size_bytes": 176675,
+      "sha256": "9c80fb1ecf7840c1c9aba57523191760a368386f062869c2762994e274ec8b57"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_029500ms.jpg",
+      "size_bytes": 176678,
+      "sha256": "cfacace8c2713a21f8e245a8c270482fcd546ede66ecb6dbb410f8c8b6bc6908"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_030000ms.jpg",
+      "size_bytes": 176695,
+      "sha256": "b163b91a9c3082c4310c4e936e1b7279cfee18378197585bb0d6a02909be9196"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_030500ms.jpg",
+      "size_bytes": 176673,
+      "sha256": "fad246918e420f0f715f73d4323ae9c73c2ef322ee7fe1b1532d0637d89f9811"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_031000ms.jpg",
+      "size_bytes": 176680,
+      "sha256": "b08321a5e93521c34ed814415813e1c40f0ee860c9017c09d4bc11fdbc6d162b"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_031500ms.jpg",
+      "size_bytes": 176673,
+      "sha256": "6477918e7e10137a292ca28d1d227abff5002847d3d4a2a789ec72fd7f32ce61"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_032000ms.jpg",
+      "size_bytes": 176701,
+      "sha256": "cb938b46c13c2a05b82a5f8a45eca125834dee0b790c6af7b9e6284f50177947"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_032500ms.jpg",
+      "size_bytes": 176675,
+      "sha256": "6e8875f91b414a738b437981893de09805489b90ed19ba3d4388f0b6afa6fc25"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_033000ms.jpg",
+      "size_bytes": 172698,
+      "sha256": "fce829c03809878db65697b5f65bd72a4e3db81becf38e9c9a44bb735ba78ca9"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_033500ms.jpg",
+      "size_bytes": 173081,
+      "sha256": "8ee22b8832ed0e6115bce414e614410e1be99f309cf0cb4c01ec023396fed733"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_034000ms.jpg",
+      "size_bytes": 173877,
+      "sha256": "6ffb18c3ab2708faa295b479aee18d2d9d7fb1dfc3c89ba288e6ed86fba9036c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_034500ms.jpg",
+      "size_bytes": 176556,
+      "sha256": "f20f0b4f6958e225fa5b36ae9c2bc38c388eb1ea20ff413aff2208990b503df6"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_035000ms.jpg",
+      "size_bytes": 176944,
+      "sha256": "49579db10971c098a49e9cadd64c0927fbdb0229098d0a05425428aa75b4bf6c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_035500ms.jpg",
+      "size_bytes": 180834,
+      "sha256": "f314afd77c47e6af8539b5637898017374b4a2c90ee207df51c33106b069ca6f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_036000ms.jpg",
+      "size_bytes": 185550,
+      "sha256": "ea33ed033abbfc9262f1984e131604348368cca54dd6e16816fa01fce365e8af"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_036500ms.jpg",
+      "size_bytes": 187582,
+      "sha256": "84b28494c575ea84144dd6c7aacaa904e6d6a747d7fac98df7297851403a850f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_037000ms.jpg",
+      "size_bytes": 188910,
+      "sha256": "39164759792c91f6808e4eff46d1d9a5a2ca2ae85e018472b284ddd6bccb9b19"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_037500ms.jpg",
+      "size_bytes": 189617,
+      "sha256": "dfc2223826ac1113ccd29c5ab9793e9f913107813f156b291230f208d8d6e058"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_038000ms.jpg",
+      "size_bytes": 195144,
+      "sha256": "56a2bf912edcac045f7f0981c7b7e5b35a7d868d31890e13a8a980d5bc5e2b12"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_038500ms.jpg",
+      "size_bytes": 192662,
+      "sha256": "c824e89981664ab2f6e3ee996f13ef10ba31ad810d9f295e4addf52b58b38a36"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_039000ms.jpg",
+      "size_bytes": 187321,
+      "sha256": "926b2270362fc7414996735b13e1ede346459449c1e19cbdb2175c2a372ad8ac"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_039500ms.jpg",
+      "size_bytes": 194215,
+      "sha256": "771dd5a16e530211914754125d94c115beff67e276c5112a5ceb7307b081511d"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_040000ms.jpg",
+      "size_bytes": 185502,
+      "sha256": "1c2ee79d326e2c1c70bb03127d5093e73885cc0bc5c9a50d867af6c5f6ac174a"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_040500ms.jpg",
+      "size_bytes": 185560,
+      "sha256": "b8205fbb4322869b92b5944ab9af335d6a649e3b979b80ef8932eb63323ddf23"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_041000ms.jpg",
+      "size_bytes": 185898,
+      "sha256": "e34abe7694d2a4ef3ecd35ba4554577572ddc821067f40ae455f08ac141ae14c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_041500ms.jpg",
+      "size_bytes": 182414,
+      "sha256": "ec5bc5c20d3e35ab85dd5ac5735303396b4d38ae613dc61e6ae64c0bf150eac1"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_042000ms.jpg",
+      "size_bytes": 184650,
+      "sha256": "53926c653d4b95567660f3fa2e18c2d42543b21d4bc59a46d36df1a54d54853b"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_042500ms.jpg",
+      "size_bytes": 188069,
+      "sha256": "95cb1d1829a84dae6b9f5e5f128b74a92775293b0c56c59cbed2a731a4eb0ce5"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_043000ms.jpg",
+      "size_bytes": 191104,
+      "sha256": "25259f8af8296fdd70efc39889f68fc1fff75e4a841651d0397cdf5374071212"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_043500ms.jpg",
+      "size_bytes": 191414,
+      "sha256": "e6c6a8cb33679671a935e00af7f7b3e6948d4304a4d87cbb1ebed3c45b485b18"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_044000ms.jpg",
+      "size_bytes": 190523,
+      "sha256": "ac78e2be8bdf4f2baa19621717e8836a88cc49c7eb11d13bf685d18a01d45a8f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_044500ms.jpg",
+      "size_bytes": 190693,
+      "sha256": "90ab1d878790790cd7257d8ca9c6f4b030bbff822bc16818e3b7a0972f236c67"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_045000ms.jpg",
+      "size_bytes": 190272,
+      "sha256": "d6f29797efa71962df9dbb1b86eefa511cd064e4fdc5070a402aef658c0678b3"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_045500ms.jpg",
+      "size_bytes": 190520,
+      "sha256": "50cb3a7b82d449f613be3b26dd7ecda0185b0af3ef72443d67badc510d553a73"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_046000ms.jpg",
+      "size_bytes": 190654,
+      "sha256": "053e2044993d40d7270d217092089620312d6f5cd823a1f8fe4b8cb6a2103133"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_046500ms.jpg",
+      "size_bytes": 191687,
+      "sha256": "de0acb65a6652543b21c4bd2c692c48e748bee6bb608b05791cb9e9fcb7ac7c4"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_047000ms.jpg",
+      "size_bytes": 191663,
+      "sha256": "22cd9532ac0318deb2eee7a72ce1baa7b71792ce053371dd70a9b15a6b5dfe89"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_047500ms.jpg",
+      "size_bytes": 192593,
+      "sha256": "b8c22d282448069cdb99f4403f3e68ea3baf2220bcf0416369ab6b90c8279f7d"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_048000ms.jpg",
+      "size_bytes": 192231,
+      "sha256": "a924342df036ae812c85c3696b529975aaa43fd5fb474ecc35a1d937533fca9d"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_048500ms.jpg",
+      "size_bytes": 192439,
+      "sha256": "38e82a136c3c5f682d5339672650b51664a580304eb252e74a8c35a88db98e03"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_049000ms.jpg",
+      "size_bytes": 192492,
+      "sha256": "3af203c9861c1b191f68e3403dbed9502e23bc73a11907d2ecae2b11183c95d9"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/frames/frame_049500ms.jpg",
+      "size_bytes": 193489,
+      "sha256": "b9b8b4f08621c080ed0c90d8d0c760865608e7aa3d907ca3f8ff534148132886"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/index.html",
+      "size_bytes": 103368,
+      "sha256": "b9961c9c01f82417b183b6b2240ef6d28b7f0c761b4ef8600c351ba408b1075a"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/manifests/FRAME_MANIFEST.json",
+      "size_bytes": 41784,
+      "sha256": "d79d852072e997dbad20e64626fed91adb7773f6185eb11eec1e3d717ccf5adf"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_01.jpg",
+      "size_bytes": 607941,
+      "sha256": "285e8c1e0c7a64ef657ea33565b2b97d9a5ad7511b55e1292a15df306bd8e112"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_02.jpg",
+      "size_bytes": 576428,
+      "sha256": "45fcd48583962751613b1f21d8081550b7e42f9dc89cb4dd220eb50d75178048"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_03.jpg",
+      "size_bytes": 604923,
+      "sha256": "d10b087ccf05d810b88f71cdb7cc58a69b09f6ed40f30594e34eeafdccd07a80"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_04.jpg",
+      "size_bytes": 819166,
+      "sha256": "68164f18505b096b34e0d87835e0524d62fe1494af225630acb4c32919c4501f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_05.jpg",
+      "size_bytes": 574761,
+      "sha256": "9520ea542437a5759435b5c1589a5c9ecbf1bcc0bb96d8a4aa03bb46abfbaf0c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_06.jpg",
+      "size_bytes": 599327,
+      "sha256": "96e6b872a9b423439d9eaaeadc85d53aa44ab7c2c04b5f9c522cf3d057965bfb"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_07.jpg",
+      "size_bytes": 641559,
+      "sha256": "aea51b952082b1cb65e215947e586c6cdb0b0e901bc103891c0e2cba21317687"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_08.jpg",
+      "size_bytes": 641198,
+      "sha256": "ebf58ce0cf1852c06bdc723bc7d65e49555289261b2589a7fc73d719c163d1bb"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_09.jpg",
+      "size_bytes": 640558,
+      "sha256": "6887bf1a0a0d377e1384a38a547c801e69b78bfe695b313f351802d15179afac"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_10.jpg",
+      "size_bytes": 673600,
+      "sha256": "44ab969ba46aff7892af9577c4f18ecfad3a8bc70715a7016e8e8ed09fe30baa"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_11.jpg",
+      "size_bytes": 668455,
+      "sha256": "795688d05f62689c081c1648f89802f6c5648119d57704162188c3aa130fe7ae"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_12.jpg",
+      "size_bytes": 664929,
+      "sha256": "2b472a415f3cca58a85e59c1d9e5507cb630b56cd86075b4d927ded2b76b06f3"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/motion-strips/R3F_BROADCAST_CONTINUITY_PROOF_V2_HIGH_CADENCE_MOTION_STRIP_13.jpg",
+      "size_bytes": 361785,
+      "sha256": "1bebf75d8043229e7fb8df0966d8e449d8eec6d916afa66fc18da7432b988137"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_01.jpg",
+      "size_bytes": 605976,
+      "sha256": "07724b1928d565b43a6933fe49c3cc63fdc1776af764b8e5a0409995aca4c93f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_02.jpg",
+      "size_bytes": 606444,
+      "sha256": "19f193cfc45c836aa125d98ea97f250b10266e096e1fefdeaaa42af44448f7ad"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_03.jpg",
+      "size_bytes": 596792,
+      "sha256": "e0cf1c072555f71cef82fd420178f35b7992c9b95650a1c2300ea30474a1e6f3"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_04.jpg",
+      "size_bytes": 566185,
+      "sha256": "d4612d3b270db0a1af3b6c55f78dc89383a347a3a71858f1c3afffe33cbd8d44"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_05.jpg",
+      "size_bytes": 567785,
+      "sha256": "89e82b0947a9422341c02a5743f5540ec988cf9f3c818f49f6f98a07c4e125cb"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_06.jpg",
+      "size_bytes": 580619,
+      "sha256": "3cdafa106b407a42a2e9f4866d63ef8dbbec89006ee9e96823b268f535fef01b"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_07.jpg",
+      "size_bytes": 183525,
+      "sha256": "3829bd3680c5a69bf31b427367e9483dcc0cc2b28957266fb402a8c6ccde1555"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_01.jpg",
+      "size_bytes": 672856,
+      "sha256": "a8a6e065266810093b7f1d6051b9fa23bca0ca06d36b5c0498c95c860255d6f3"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_02.jpg",
+      "size_bytes": 671323,
+      "sha256": "5a235b5aeea6bae8069f0574931c3d1ad5d26e1613adc19d8d32b1c09c4e74f1"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_03.jpg",
+      "size_bytes": 664358,
+      "sha256": "8ddb53d1da73dab70d933903f2cdb4f7c2ddcd1b0dcb4ead4a6369098e523e8f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_04.jpg",
+      "size_bytes": 660212,
+      "sha256": "5c9911afa1e962cbaab81287d1bd93c75a038256e9a0971a7fd35267ffffdfe1"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_05.jpg",
+      "size_bytes": 660319,
+      "sha256": "2d1db9b8f18edc811a1cd8b709cf155fbe63998964a0b209200b505c60f2270e"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_06.jpg",
+      "size_bytes": 662602,
+      "sha256": "c7341ca4f2d8469cce3d644bc2036705514bcf86974687785935a8537792331a"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_07.jpg",
+      "size_bytes": 662895,
+      "sha256": "950cb321d96f6ef767e698572b682c928b2be8c3d948e789b36c351fda1d8516"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_08.jpg",
+      "size_bytes": 358375,
+      "sha256": "af84cdc43ce9bfa7ef76dabe7bd91059ae35fc4f8a7fa512ea5fab59f24a932a"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_01_01.jpg",
+      "size_bytes": 606608,
+      "sha256": "4381018dbb308990dbec76a8489723056f5ac67a61be505c98543ec0057a4a17"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_01_02.jpg",
+      "size_bytes": 600942,
+      "sha256": "8d7de52e24178c16ea810deefc9924d4ad52450f2bf49e5a15743cc20f59dc70"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_01_03.jpg",
+      "size_bytes": 313863,
+      "sha256": "59faecda0a2ee2f7c32c079e4c6db8ce9e1d205bb4f95b6014a514c22ec3092d"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_02_01.jpg",
+      "size_bytes": 559857,
+      "sha256": "e6997d50e0f378163b66671cfddca3bf05530e59385cd01192a94417de582a3f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_02_02.jpg",
+      "size_bytes": 577061,
+      "sha256": "841f6e93134ac1525a78b9812b81dbca7a6884a5b2af703996560fd58267dac9"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_02_03.jpg",
+      "size_bytes": 315208,
+      "sha256": "9fd03327b3d519198c2c2d6577ecef8306ed6cffdde9be23e65a0ce78fee8be6"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_03_01.jpg",
+      "size_bytes": 579549,
+      "sha256": "7f85cf2848eeeef03291f7725a6eb1a6b9c198aba1666f0358ab226949a6fd0f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_03_02.jpg",
+      "size_bytes": 822338,
+      "sha256": "7872f5ecabed7aa4a52db10755b2c2f10917660ea4f6d8eeab5879f1d71e253f"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_03_03.jpg",
+      "size_bytes": 447683,
+      "sha256": "5453ecae805611ba6ccfd5671c2782f88f00dbd28876417c6859232043770104"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_04_01.jpg",
+      "size_bytes": 834927,
+      "sha256": "04e39e53dafc948bdcac1726fff00971c10243fda524bca9b3560218eb212f9b"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_04_02.jpg",
+      "size_bytes": 668629,
+      "sha256": "e65f97cd26fd7efbddd980c536cf1b71c7c1b51377347620c3dff150ee1eef7e"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_04_03.jpg",
+      "size_bytes": 309250,
+      "sha256": "df791d151a1de3452c26a36f6536e83162cb0492a50f2ffc0d6c90cbe0325978"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_05_01.jpg",
+      "size_bytes": 577267,
+      "sha256": "4f203f734104140e475c3784bb38aecf1830e01083520b5b74e2f0af016e2367"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_05_02.jpg",
+      "size_bytes": 611492,
+      "sha256": "107d97ace189e78cda4cdbd63b1aa563a4323f46dba0d5c985560d0cb3172d52"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_05_03.jpg",
+      "size_bytes": 342192,
+      "sha256": "297b5ed0cbd618ee408e5a29ef0ef1c19ce751bc754c44001d490c0a183419de"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_06_01.jpg",
+      "size_bytes": 629381,
+      "sha256": "2c4a781668a5f488bfee8485a77470933ead668cc81e3dd90262b6abb2cb9a83"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_06_02.jpg",
+      "size_bytes": 639768,
+      "sha256": "762c901d634edd3c7c3174fad38a4f375f2cabb2798ef442943021f62f360c5c"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_06_03.jpg",
+      "size_bytes": 352774,
+      "sha256": "bf4968ea177452aa81f74b6d78718a316e0fbd5c4ceb436b0ccf59912aeec849"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_07_01.jpg",
+      "size_bytes": 672897,
+      "sha256": "63b1de31c05462e97286cf2c38b25173afed8c2de04d77cffe6435caa4681c7d"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_07_02.jpg",
+      "size_bytes": 671855,
+      "sha256": "a307ea753148e7edc21e1589974a492c7befa20914a814282c7fd601c9670ae9"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_07_03.jpg",
+      "size_bytes": 361483,
+      "sha256": "c47f29339fa5700a1c96b75ecc614d29d1e00f2c9ee8f7f3d5b4ad58bd948d96"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_08_01.jpg",
+      "size_bytes": 670631,
+      "sha256": "538e72c57d1fce5e85d38d55dd5f1cc87d1c3830392b27dc53cb6d0bc56afb59"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_08_02.jpg",
+      "size_bytes": 669845,
+      "sha256": "17c715cad5f1420337c4761a06174f122d1792aa4d4dd997dc681b2b285847b3"
+    },
+    {
+      "path": "stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_08_03.jpg",
+      "size_bytes": 357936,
+      "sha256": "b4df9bf60c6756253ee980b9e475cab8bc8147595a9f678014851db6f763cdcc"
+    }
+  ]
+}

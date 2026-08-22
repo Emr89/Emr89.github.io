@@ -1,0 +1,402 @@
+[
+  {
+    "transition_sequence": 1,
+    "source_video": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+    "source_video_sha256": "6232ab76f73db06de1cfbccd9ceb58f74de0e0a1dbbe00a6d756ac186e61d7fe",
+    "timestamp_range_ms": {
+      "start": 500,
+      "end_exclusive": 4500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 2,
+    "source_video": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+    "source_video_sha256": "6232ab76f73db06de1cfbccd9ceb58f74de0e0a1dbbe00a6d756ac186e61d7fe",
+    "timestamp_range_ms": {
+      "start": 7000,
+      "end_exclusive": 11000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 3,
+    "source_video": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+    "source_video_sha256": "6232ab76f73db06de1cfbccd9ceb58f74de0e0a1dbbe00a6d756ac186e61d7fe",
+    "timestamp_range_ms": {
+      "start": 24500,
+      "end_exclusive": 28500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_03_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_03_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_03_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 4,
+    "source_video": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+    "source_video_sha256": "6232ab76f73db06de1cfbccd9ceb58f74de0e0a1dbbe00a6d756ac186e61d7fe",
+    "timestamp_range_ms": {
+      "start": 30500,
+      "end_exclusive": 34500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_04_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_04_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/transitions/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_TRANSITION_EVIDENCE_04_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 1,
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "source_video_sha256": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+    "timestamp_range_ms": {
+      "start": 2500,
+      "end_exclusive": 6500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 2,
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "source_video_sha256": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+    "timestamp_range_ms": {
+      "start": 11500,
+      "end_exclusive": 15500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 3,
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "source_video_sha256": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+    "timestamp_range_ms": {
+      "start": 27500,
+      "end_exclusive": 31500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_03_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_03_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_03_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 4,
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "source_video_sha256": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+    "timestamp_range_ms": {
+      "start": 34500,
+      "end_exclusive": 38500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_04_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_04_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_04_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 5,
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "source_video_sha256": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+    "timestamp_range_ms": {
+      "start": 49000,
+      "end_exclusive": 53000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_05_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_05_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/transitions/R3F_BROADCAST_BACKBONE_PROOF_V1_TRANSITION_EVIDENCE_05_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 1,
+    "source_video": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1.mp4",
+    "source_video_sha256": "d998931e0deba453a45be4313f5af8544a59e562dba24413fb90b626de2f6e04",
+    "timestamp_range_ms": {
+      "start": 1200,
+      "end_exclusive": 5200
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 2,
+    "source_video": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1.mp4",
+    "source_video_sha256": "d998931e0deba453a45be4313f5af8544a59e562dba24413fb90b626de2f6e04",
+    "timestamp_range_ms": {
+      "start": 5500,
+      "end_exclusive": 9500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/transitions/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 1,
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_range_ms": {
+      "start": 3800,
+      "end_exclusive": 7800
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 2,
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_range_ms": {
+      "start": 7800,
+      "end_exclusive": 11800
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 3,
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_range_ms": {
+      "start": 14300,
+      "end_exclusive": 18300
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_03_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_03_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/transitions/BETWEEN_PLAY_CONTINUITY_PROOF_V1_TRANSITION_EVIDENCE_03_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 1,
+    "source_video": "MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+    "source_video_sha256": "3614f1945ca00af6f3c86cef69f2e42ac8c97d5f81fd1c363a9a698cf3559769",
+    "timestamp_range_ms": {
+      "start": 300,
+      "end_exclusive": 4300
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_01_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 2,
+    "source_video": "MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+    "source_video_sha256": "3614f1945ca00af6f3c86cef69f2e42ac8c97d5f81fd1c363a9a698cf3559769",
+    "timestamp_range_ms": {
+      "start": 12500,
+      "end_exclusive": 16500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_02_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_02_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_02_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 3,
+    "source_video": "MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+    "source_video_sha256": "3614f1945ca00af6f3c86cef69f2e42ac8c97d5f81fd1c363a9a698cf3559769",
+    "timestamp_range_ms": {
+      "start": 18000,
+      "end_exclusive": 22000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_03_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_03_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/transitions/MULTI_GAME_TRANSITION_PROOF_V1_TRANSITION_EVIDENCE_03_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 1,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 1300,
+      "end_exclusive": 5300
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_01_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 2,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 5500,
+      "end_exclusive": 9500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_02_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_02_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_02_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 3,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 10000,
+      "end_exclusive": 14000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_03_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_03_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_03_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 4,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 13500,
+      "end_exclusive": 17500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_04_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_04_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_04_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 5,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 20500,
+      "end_exclusive": 24500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_05_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_05_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_05_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 6,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 32500,
+      "end_exclusive": 36500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_06_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_06_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_06_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 7,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 37500,
+      "end_exclusive": 41500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_07_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_07_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_07_03.jpg"
+    ]
+  },
+  {
+    "transition_sequence": 8,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 38500,
+      "end_exclusive": 42500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_08_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_08_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/transitions/R3F_BROADCAST_CONTINUITY_PROOF_V2_TRANSITION_EVIDENCE_08_03.jpg"
+    ]
+  }
+]

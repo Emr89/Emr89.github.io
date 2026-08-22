@@ -1,0 +1,94 @@
+[
+  {
+    "source_video": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+    "timestamps_ms": [
+      0,
+      3000,
+      9000,
+      18000,
+      27000,
+      33000
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2/normal-football-broadcast-visual-proof/camera-environment/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg"
+    ]
+  },
+  {
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "timestamps_ms": [
+      0,
+      5000,
+      14000,
+      20000,
+      29000,
+      37000,
+      44000,
+      54000
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/camera-environment/R3F_BROADCAST_BACKBONE_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg"
+    ]
+  },
+  {
+    "source_video": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1.mp4",
+    "timestamps_ms": [
+      0,
+      3000,
+      6000,
+      9000,
+      11000
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/camera-environment/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg"
+    ]
+  },
+  {
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "timestamps_ms": [
+      0,
+      5000,
+      8000,
+      10000,
+      16000,
+      19000
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/between-play-continuity-proof/camera-environment/BETWEEN_PLAY_CONTINUITY_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg"
+    ]
+  },
+  {
+    "source_video": "MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+    "timestamps_ms": [
+      0,
+      2000,
+      6000,
+      12000,
+      15000,
+      18000,
+      21000,
+      24000
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/camera-environment/MULTI_GAME_TRANSITION_PROOF_V1_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg"
+    ]
+  },
+  {
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "timestamps_ms": [
+      0,
+      5000,
+      9000,
+      12000,
+      16000,
+      23000,
+      33000,
+      39000,
+      45000,
+      49000
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/camera-environment/R3F_BROADCAST_CONTINUITY_PROOF_V2_CAMERA_ENVIRONMENT_EVIDENCE_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/camera-environment/R3F_BROADCAST_CONTINUITY_PROOF_V2_CAMERA_ENVIRONMENT_EVIDENCE_02.jpg"
+    ]
+  }
+]

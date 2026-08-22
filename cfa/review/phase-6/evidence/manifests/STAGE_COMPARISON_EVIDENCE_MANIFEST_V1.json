@@ -1,0 +1,102 @@
+[
+  {
+    "viewing_state": "Normal game presentation",
+    "selections": [
+      {
+        "stage": "STAGE 2",
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 3000
+      },
+      {
+        "stage": "STAGE 2B",
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 0
+      },
+      {
+        "stage": "STAGE 2C",
+        "video_id": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1",
+        "timestamp_ms": 0
+      }
+    ]
+  },
+  {
+    "viewing_state": "Active play",
+    "selections": [
+      {
+        "stage": "STAGE 2",
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 6000
+      },
+      {
+        "stage": "STAGE 2B",
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 3000
+      },
+      {
+        "stage": "STAGE 2C",
+        "video_id": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1",
+        "timestamp_ms": 5000
+      }
+    ]
+  },
+  {
+    "viewing_state": "Between-play state",
+    "selections": [
+      {
+        "stage": "STAGE 2",
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 33000
+      },
+      {
+        "stage": "STAGE 2B",
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 9000
+      },
+      {
+        "stage": "STAGE 2C",
+        "video_id": "BETWEEN_PLAY_CONTINUITY_PROOF_V1",
+        "timestamp_ms": 10000
+      }
+    ]
+  },
+  {
+    "viewing_state": "Strategic / game-state overlay",
+    "selections": [
+      {
+        "stage": "STAGE 2",
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 27000
+      },
+      {
+        "stage": "STAGE 2B",
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 51000
+      },
+      {
+        "stage": "STAGE 2C",
+        "video_id": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1",
+        "timestamp_ms": 4000
+      }
+    ]
+  },
+  {
+    "viewing_state": "Multi-game presentation",
+    "selections": [
+      {
+        "stage": "STAGE 2",
+        "source_video": null,
+        "timestamp_ms": null
+      },
+      {
+        "stage": "STAGE 2B",
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 16000
+      },
+      {
+        "stage": "STAGE 2C",
+        "video_id": "MULTI_GAME_TRANSITION_PROOF_V1",
+        "timestamp_ms": 7000
+      }
+    ]
+  }
+]

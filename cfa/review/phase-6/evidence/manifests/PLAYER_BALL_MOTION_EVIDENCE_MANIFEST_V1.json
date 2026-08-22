@@ -1,0 +1,125 @@
+[
+  {
+    "sequence": 1,
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "source_video_sha256": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+    "timestamp_range_ms": {
+      "start": 0,
+      "end_exclusive": 6500
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_03.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_04.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_01_05.jpg"
+    ]
+  },
+  {
+    "sequence": 2,
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "source_video_sha256": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+    "timestamp_range_ms": {
+      "start": 36000,
+      "end_exclusive": 54000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_03.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_04.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_05.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_06.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_07.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_08.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_09.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_10.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_11.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2b/r3f-broadcast-backbone-proof/player-ball-motion/R3F_BROADCAST_BACKBONE_PROOF_V1_PLAYER_BALL_MOTION_02_12.jpg"
+    ]
+  },
+  {
+    "sequence": 1,
+    "source_video": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1.mp4",
+    "source_video_sha256": "d998931e0deba453a45be4313f5af8544a59e562dba24413fb90b626de2f6e04",
+    "timestamp_range_ms": {
+      "start": 0,
+      "end_exclusive": 12000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_03.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_04.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_05.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_06.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_07.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/one-play-motion-fidelity-proof/player-ball-motion/ONE_PLAY_MOTION_FIDELITY_PROOF_V1_PLAYER_BALL_MOTION_01_08.jpg"
+    ]
+  },
+  {
+    "sequence": 1,
+    "source_video": "MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+    "source_video_sha256": "3614f1945ca00af6f3c86cef69f2e42ac8c97d5f81fd1c363a9a698cf3559769",
+    "timestamp_range_ms": {
+      "start": 18000,
+      "end_exclusive": 25000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_03.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_04.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/multi-game-transition-proof/player-ball-motion/MULTI_GAME_TRANSITION_PROOF_V1_PLAYER_BALL_MOTION_01_05.jpg"
+    ]
+  },
+  {
+    "sequence": 1,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 0,
+      "end_exclusive": 10000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_03.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_04.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_05.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_06.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_01_07.jpg"
+    ]
+  },
+  {
+    "sequence": 2,
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "source_video_sha256": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+    "timestamp_range_ms": {
+      "start": 38000,
+      "end_exclusive": 50000
+    },
+    "sample_rate_frames_per_second": 10,
+    "source_frames_only": true,
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_02.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_03.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_04.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_05.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_06.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_07.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/stage-2c/r3f-broadcast-continuity-proof/player-ball-motion/R3F_BROADCAST_CONTINUITY_PROOF_V2_PLAYER_BALL_MOTION_02_08.jpg"
+    ]
+  }
+]

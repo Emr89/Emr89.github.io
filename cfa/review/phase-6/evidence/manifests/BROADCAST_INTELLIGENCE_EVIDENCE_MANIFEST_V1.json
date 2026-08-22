@@ -1,0 +1,163 @@
+[
+  {
+    "stage": "stage-2",
+    "selections": [
+      {
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 0
+      },
+      {
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 1000
+      },
+      {
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 3000
+      },
+      {
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 9000
+      },
+      {
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 12000
+      },
+      {
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 24000
+      },
+      {
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 27000
+      },
+      {
+        "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+        "timestamp_ms": 33000
+      }
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/contact-sheets/broadcast-intelligence/STAGE-2_BROADCAST_INTELLIGENCE_EVIDENCE_01.jpg"
+    ]
+  },
+  {
+    "stage": "stage-2b",
+    "selections": [
+      {
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 0
+      },
+      {
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 4000
+      },
+      {
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 9000
+      },
+      {
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 14000
+      },
+      {
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 24000
+      },
+      {
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 29000
+      },
+      {
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 37000
+      },
+      {
+        "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+        "timestamp_ms": 51000
+      }
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/contact-sheets/broadcast-intelligence/STAGE-2B_BROADCAST_INTELLIGENCE_EVIDENCE_01.jpg"
+    ]
+  },
+  {
+    "stage": "stage-2c",
+    "selections": [
+      {
+        "video_id": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1",
+        "timestamp_ms": 0
+      },
+      {
+        "video_id": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1",
+        "timestamp_ms": 4000
+      },
+      {
+        "video_id": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1",
+        "timestamp_ms": 8000
+      },
+      {
+        "video_id": "BETWEEN_PLAY_CONTINUITY_PROOF_V1",
+        "timestamp_ms": 6000
+      },
+      {
+        "video_id": "BETWEEN_PLAY_CONTINUITY_PROOF_V1",
+        "timestamp_ms": 10000
+      },
+      {
+        "video_id": "BETWEEN_PLAY_CONTINUITY_PROOF_V1",
+        "timestamp_ms": 17000
+      },
+      {
+        "video_id": "MULTI_GAME_TRANSITION_PROOF_V1",
+        "timestamp_ms": 3000
+      },
+      {
+        "video_id": "MULTI_GAME_TRANSITION_PROOF_V1",
+        "timestamp_ms": 14000
+      },
+      {
+        "video_id": "MULTI_GAME_TRANSITION_PROOF_V1",
+        "timestamp_ms": 18000
+      },
+      {
+        "video_id": "MULTI_GAME_TRANSITION_PROOF_V1",
+        "timestamp_ms": 21000
+      },
+      {
+        "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+        "timestamp_ms": 4000
+      },
+      {
+        "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+        "timestamp_ms": 8000
+      },
+      {
+        "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+        "timestamp_ms": 12000
+      },
+      {
+        "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+        "timestamp_ms": 16000
+      },
+      {
+        "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+        "timestamp_ms": 24000
+      },
+      {
+        "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+        "timestamp_ms": 34000
+      },
+      {
+        "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+        "timestamp_ms": 40000
+      },
+      {
+        "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+        "timestamp_ms": 48000
+      }
+    ],
+    "sheet_urls": [
+      "https://emr89.github.io/cfa/review/phase-6/evidence/contact-sheets/broadcast-intelligence/STAGE-2C_BROADCAST_INTELLIGENCE_EVIDENCE_01.jpg",
+      "https://emr89.github.io/cfa/review/phase-6/evidence/contact-sheets/broadcast-intelligence/STAGE-2C_BROADCAST_INTELLIGENCE_EVIDENCE_02.jpg"
+    ]
+  }
+]

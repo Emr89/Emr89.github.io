@@ -1,0 +1,73 @@
+{
+  "package": "CFA_PHASE_6_STRATEGY_ROOM_VISUAL_EVIDENCE_V1",
+  "source_policy": "Existing MP4s are immutable; all evidence files are derivatives.",
+  "sources": [
+    {
+      "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+      "source_video": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+      "source_repository_path": "cfa/review/phase-6/media/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+      "public_source_url": "https://emr89.github.io/cfa/review/phase-6/media/NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+      "sha256_before_extraction": "6232ab76f73db06de1cfbccd9ceb58f74de0e0a1dbbe00a6d756ac186e61d7fe",
+      "size_bytes_before_extraction": 36611488,
+      "sha256_after_extraction": "6232ab76f73db06de1cfbccd9ceb58f74de0e0a1dbbe00a6d756ac186e61d7fe",
+      "size_bytes_after_extraction": 36611488,
+      "unchanged": true
+    },
+    {
+      "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+      "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+      "source_repository_path": "cfa/review/phase-6/media/R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+      "public_source_url": "https://emr89.github.io/cfa/review/phase-6/media/R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+      "sha256_before_extraction": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+      "size_bytes_before_extraction": 38617233,
+      "sha256_after_extraction": "ce69081ee51822c8e3c6f07e76b61eac9fa13410cab669845f166c5018b2ff92",
+      "size_bytes_after_extraction": 38617233,
+      "unchanged": true
+    },
+    {
+      "video_id": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1",
+      "source_video": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1.mp4",
+      "source_repository_path": "cfa/review/phase-6/media/ONE_PLAY_MOTION_FIDELITY_PROOF_V1.mp4",
+      "public_source_url": "https://emr89.github.io/cfa/review/phase-6/media/ONE_PLAY_MOTION_FIDELITY_PROOF_V1.mp4",
+      "sha256_before_extraction": "d998931e0deba453a45be4313f5af8544a59e562dba24413fb90b626de2f6e04",
+      "size_bytes_before_extraction": 10709010,
+      "sha256_after_extraction": "d998931e0deba453a45be4313f5af8544a59e562dba24413fb90b626de2f6e04",
+      "size_bytes_after_extraction": 10709010,
+      "unchanged": true
+    },
+    {
+      "video_id": "BETWEEN_PLAY_CONTINUITY_PROOF_V1",
+      "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+      "source_repository_path": "cfa/review/phase-6/media/BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+      "public_source_url": "https://emr89.github.io/cfa/review/phase-6/media/BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+      "sha256_before_extraction": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+      "size_bytes_before_extraction": 16511970,
+      "sha256_after_extraction": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+      "size_bytes_after_extraction": 16511970,
+      "unchanged": true
+    },
+    {
+      "video_id": "MULTI_GAME_TRANSITION_PROOF_V1",
+      "source_video": "MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+      "source_repository_path": "cfa/review/phase-6/media/MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+      "public_source_url": "https://emr89.github.io/cfa/review/phase-6/media/MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+      "sha256_before_extraction": "3614f1945ca00af6f3c86cef69f2e42ac8c97d5f81fd1c363a9a698cf3559769",
+      "size_bytes_before_extraction": 17592101,
+      "sha256_after_extraction": "3614f1945ca00af6f3c86cef69f2e42ac8c97d5f81fd1c363a9a698cf3559769",
+      "size_bytes_after_extraction": 17592101,
+      "unchanged": true
+    },
+    {
+      "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+      "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+      "source_repository_path": "cfa/review/phase-6/media/R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+      "public_source_url": "https://emr89.github.io/cfa/review/phase-6/media/R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+      "sha256_before_extraction": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+      "size_bytes_before_extraction": 39713833,
+      "sha256_after_extraction": "ff7d57e09e3e9e55c388de8d71cf725e4cc03b5cc4d1df7c86a62eac9a434704",
+      "size_bytes_after_extraction": 39713833,
+      "unchanged": true
+    }
+  ],
+  "all_sources_unchanged_after_extraction": true
+}

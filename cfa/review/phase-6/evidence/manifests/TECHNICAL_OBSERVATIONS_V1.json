@@ -1,0 +1,14 @@
+{
+  "scope": "Technical extraction observations only; no qualitative or causal conclusions.",
+  "frame_extraction_failures": [],
+  "decode_errors": [],
+  "unusual_decode_behavior": [],
+  "exact_adjacent_duplicate_sampled_frames": {
+    "R3F_BROADCAST_BACKBONE_PROOF_V1": 40,
+    "note": "Exact adjacent duplicate JPEG samples were observed at the prescribed 4-fps cadence; they remain in chronological evidence and were not removed."
+  },
+  "ball_visual_resolvability": {
+    "note": "In some wide and split-screen R3F frames the ball occupies only a few source pixels and is not consistently distinguishable in reduced contact-sheet thumbnails. Full-resolution 1920 \u00d7 1080 frame links preserve the available source pixels.",
+    "source_images_modified": false
+  }
+}

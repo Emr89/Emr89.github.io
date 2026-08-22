@@ -1,0 +1,522 @@
+[
+  {
+    "frame_filename": "frame_000000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 0,
+    "timestamp_seconds": 0.0,
+    "source_frame_number_zero_based": 0,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_000500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 500,
+    "timestamp_seconds": 0.5,
+    "source_frame_number_zero_based": 15,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_001000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 1000,
+    "timestamp_seconds": 1.0,
+    "source_frame_number_zero_based": 30,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_001500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 1500,
+    "timestamp_seconds": 1.5,
+    "source_frame_number_zero_based": 45,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_002000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 2000,
+    "timestamp_seconds": 2.0,
+    "source_frame_number_zero_based": 60,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_002500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 2500,
+    "timestamp_seconds": 2.5,
+    "source_frame_number_zero_based": 75,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_003000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 3000,
+    "timestamp_seconds": 3.0,
+    "source_frame_number_zero_based": 90,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_003500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 3500,
+    "timestamp_seconds": 3.5,
+    "source_frame_number_zero_based": 105,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_004000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 4000,
+    "timestamp_seconds": 4.0,
+    "source_frame_number_zero_based": 120,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_004500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 4500,
+    "timestamp_seconds": 4.5,
+    "source_frame_number_zero_based": 135,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_005000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 5000,
+    "timestamp_seconds": 5.0,
+    "source_frame_number_zero_based": 150,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_005500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 5500,
+    "timestamp_seconds": 5.5,
+    "source_frame_number_zero_based": 165,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_006000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 6000,
+    "timestamp_seconds": 6.0,
+    "source_frame_number_zero_based": 180,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_006500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 6500,
+    "timestamp_seconds": 6.5,
+    "source_frame_number_zero_based": 195,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_007000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 7000,
+    "timestamp_seconds": 7.0,
+    "source_frame_number_zero_based": 210,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_007500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 7500,
+    "timestamp_seconds": 7.5,
+    "source_frame_number_zero_based": 225,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_008000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 8000,
+    "timestamp_seconds": 8.0,
+    "source_frame_number_zero_based": 240,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_008500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 8500,
+    "timestamp_seconds": 8.5,
+    "source_frame_number_zero_based": 255,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_009000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 9000,
+    "timestamp_seconds": 9.0,
+    "source_frame_number_zero_based": 270,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_009500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 9500,
+    "timestamp_seconds": 9.5,
+    "source_frame_number_zero_based": 285,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_010000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 10000,
+    "timestamp_seconds": 10.0,
+    "source_frame_number_zero_based": 300,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_010500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 10500,
+    "timestamp_seconds": 10.5,
+    "source_frame_number_zero_based": 315,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_011000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 11000,
+    "timestamp_seconds": 11.0,
+    "source_frame_number_zero_based": 330,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_011500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 11500,
+    "timestamp_seconds": 11.5,
+    "source_frame_number_zero_based": 345,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_012000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 12000,
+    "timestamp_seconds": 12.0,
+    "source_frame_number_zero_based": 360,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_012500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 12500,
+    "timestamp_seconds": 12.5,
+    "source_frame_number_zero_based": 375,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_013000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 13000,
+    "timestamp_seconds": 13.0,
+    "source_frame_number_zero_based": 390,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_013500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 13500,
+    "timestamp_seconds": 13.5,
+    "source_frame_number_zero_based": 405,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_014000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 14000,
+    "timestamp_seconds": 14.0,
+    "source_frame_number_zero_based": 420,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_014500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 14500,
+    "timestamp_seconds": 14.5,
+    "source_frame_number_zero_based": 435,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_015000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 15000,
+    "timestamp_seconds": 15.0,
+    "source_frame_number_zero_based": 450,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_015500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 15500,
+    "timestamp_seconds": 15.5,
+    "source_frame_number_zero_based": 465,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_016000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 16000,
+    "timestamp_seconds": 16.0,
+    "source_frame_number_zero_based": 480,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_016500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 16500,
+    "timestamp_seconds": 16.5,
+    "source_frame_number_zero_based": 495,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_017000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 17000,
+    "timestamp_seconds": 17.0,
+    "source_frame_number_zero_based": 510,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_017500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 17500,
+    "timestamp_seconds": 17.5,
+    "source_frame_number_zero_based": 525,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_018000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 18000,
+    "timestamp_seconds": 18.0,
+    "source_frame_number_zero_based": 540,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_018500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 18500,
+    "timestamp_seconds": 18.5,
+    "source_frame_number_zero_based": 555,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_019000ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 19000,
+    "timestamp_seconds": 19.0,
+    "source_frame_number_zero_based": 570,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  },
+  {
+    "frame_filename": "frame_019500ms.jpg",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "source_video_sha256": "eb266414ba2744d22e9b79cf4b250e4064d6f5ee5ad4a5b85e3f2f8ad63a9c35",
+    "timestamp_ms": 19500,
+    "timestamp_seconds": 19.5,
+    "source_frame_number_zero_based": 585,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1"
+  }
+]

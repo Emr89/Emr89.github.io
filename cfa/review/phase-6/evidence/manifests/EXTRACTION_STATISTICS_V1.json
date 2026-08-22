@@ -1,0 +1,325 @@
+[
+  {
+    "video_id": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1",
+    "source_video": "NORMAL_FOOTBALL_BROADCAST_VISUAL_PROOF_V1.mp4",
+    "duration_seconds": 36,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1",
+    "source_frame_count": 1080,
+    "timestamped_frame_interval_seconds": 0.5,
+    "timestamped_frame_count": 72,
+    "master_contact_sheet_interval_seconds": 1.0,
+    "master_contact_sheet_frame_count": 36,
+    "master_contact_sheet_page_count": 4,
+    "high_cadence_frames_per_second": 4,
+    "high_cadence_sampled_frame_count": 144,
+    "high_cadence_motion_strip_page_count": 9,
+    "decode_errors": [],
+    "adjacent_exact_duplicate_pair_count": 0,
+    "adjacent_exact_duplicate_pairs": [],
+    "transition_window_count": 4,
+    "transition_sheet_page_count": 12,
+    "player_ball_sequence_count": 0,
+    "player_ball_sheet_page_count": 0,
+    "camera_environment_sheet_page_count": 1
+  },
+  {
+    "video_id": "R3F_BROADCAST_BACKBONE_PROOF_V1",
+    "source_video": "R3F_BROADCAST_BACKBONE_PROOF_V1.mp4",
+    "duration_seconds": 56,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1",
+    "source_frame_count": 1680,
+    "timestamped_frame_interval_seconds": 0.5,
+    "timestamped_frame_count": 112,
+    "master_contact_sheet_interval_seconds": 1.0,
+    "master_contact_sheet_frame_count": 56,
+    "master_contact_sheet_page_count": 7,
+    "high_cadence_frames_per_second": 4,
+    "high_cadence_sampled_frame_count": 224,
+    "high_cadence_motion_strip_page_count": 14,
+    "decode_errors": [],
+    "adjacent_exact_duplicate_pair_count": 40,
+    "adjacent_exact_duplicate_pairs": [
+      [
+        "frame_005000ms.jpg",
+        "frame_005250ms.jpg"
+      ],
+      [
+        "frame_005500ms.jpg",
+        "frame_005750ms.jpg"
+      ],
+      [
+        "frame_010500ms.jpg",
+        "frame_010750ms.jpg"
+      ],
+      [
+        "frame_010750ms.jpg",
+        "frame_011000ms.jpg"
+      ],
+      [
+        "frame_011000ms.jpg",
+        "frame_011250ms.jpg"
+      ],
+      [
+        "frame_015500ms.jpg",
+        "frame_015750ms.jpg"
+      ],
+      [
+        "frame_016750ms.jpg",
+        "frame_017000ms.jpg"
+      ],
+      [
+        "frame_017000ms.jpg",
+        "frame_017250ms.jpg"
+      ],
+      [
+        "frame_017500ms.jpg",
+        "frame_017750ms.jpg"
+      ],
+      [
+        "frame_018750ms.jpg",
+        "frame_019000ms.jpg"
+      ],
+      [
+        "frame_019000ms.jpg",
+        "frame_019250ms.jpg"
+      ],
+      [
+        "frame_019500ms.jpg",
+        "frame_019750ms.jpg"
+      ],
+      [
+        "frame_020750ms.jpg",
+        "frame_021000ms.jpg"
+      ],
+      [
+        "frame_021000ms.jpg",
+        "frame_021250ms.jpg"
+      ],
+      [
+        "frame_033500ms.jpg",
+        "frame_033750ms.jpg"
+      ],
+      [
+        "frame_035000ms.jpg",
+        "frame_035250ms.jpg"
+      ],
+      [
+        "frame_035500ms.jpg",
+        "frame_035750ms.jpg"
+      ],
+      [
+        "frame_038500ms.jpg",
+        "frame_038750ms.jpg"
+      ],
+      [
+        "frame_044250ms.jpg",
+        "frame_044500ms.jpg"
+      ],
+      [
+        "frame_044500ms.jpg",
+        "frame_044750ms.jpg"
+      ],
+      [
+        "frame_044750ms.jpg",
+        "frame_045000ms.jpg"
+      ],
+      [
+        "frame_045000ms.jpg",
+        "frame_045250ms.jpg"
+      ],
+      [
+        "frame_045250ms.jpg",
+        "frame_045500ms.jpg"
+      ],
+      [
+        "frame_045500ms.jpg",
+        "frame_045750ms.jpg"
+      ],
+      [
+        "frame_046500ms.jpg",
+        "frame_046750ms.jpg"
+      ],
+      [
+        "frame_046750ms.jpg",
+        "frame_047000ms.jpg"
+      ],
+      [
+        "frame_047000ms.jpg",
+        "frame_047250ms.jpg"
+      ],
+      [
+        "frame_047500ms.jpg",
+        "frame_047750ms.jpg"
+      ],
+      [
+        "frame_048500ms.jpg",
+        "frame_048750ms.jpg"
+      ],
+      [
+        "frame_048750ms.jpg",
+        "frame_049000ms.jpg"
+      ],
+      [
+        "frame_049000ms.jpg",
+        "frame_049250ms.jpg"
+      ],
+      [
+        "frame_049500ms.jpg",
+        "frame_049750ms.jpg"
+      ],
+      [
+        "frame_050500ms.jpg",
+        "frame_050750ms.jpg"
+      ],
+      [
+        "frame_050750ms.jpg",
+        "frame_051000ms.jpg"
+      ],
+      [
+        "frame_052500ms.jpg",
+        "frame_052750ms.jpg"
+      ],
+      [
+        "frame_052750ms.jpg",
+        "frame_053000ms.jpg"
+      ],
+      [
+        "frame_053000ms.jpg",
+        "frame_053250ms.jpg"
+      ],
+      [
+        "frame_053500ms.jpg",
+        "frame_053750ms.jpg"
+      ],
+      [
+        "frame_054500ms.jpg",
+        "frame_054750ms.jpg"
+      ],
+      [
+        "frame_055500ms.jpg",
+        "frame_055750ms.jpg"
+      ]
+    ],
+    "transition_window_count": 5,
+    "transition_sheet_page_count": 15,
+    "player_ball_sequence_count": 2,
+    "player_ball_sheet_page_count": 17,
+    "camera_environment_sheet_page_count": 1
+  },
+  {
+    "video_id": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1",
+    "source_video": "ONE_PLAY_MOTION_FIDELITY_PROOF_V1.mp4",
+    "duration_seconds": 12,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1",
+    "source_frame_count": 360,
+    "timestamped_frame_interval_seconds": 0.5,
+    "timestamped_frame_count": 24,
+    "master_contact_sheet_interval_seconds": 1.0,
+    "master_contact_sheet_frame_count": 12,
+    "master_contact_sheet_page_count": 2,
+    "high_cadence_frames_per_second": 10,
+    "high_cadence_sampled_frame_count": 120,
+    "high_cadence_motion_strip_page_count": 8,
+    "decode_errors": [],
+    "adjacent_exact_duplicate_pair_count": 0,
+    "adjacent_exact_duplicate_pairs": [],
+    "transition_window_count": 2,
+    "transition_sheet_page_count": 6,
+    "player_ball_sequence_count": 1,
+    "player_ball_sheet_page_count": 8,
+    "camera_environment_sheet_page_count": 1
+  },
+  {
+    "video_id": "BETWEEN_PLAY_CONTINUITY_PROOF_V1",
+    "source_video": "BETWEEN_PLAY_CONTINUITY_PROOF_V1.mp4",
+    "duration_seconds": 20,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1",
+    "source_frame_count": 600,
+    "timestamped_frame_interval_seconds": 0.5,
+    "timestamped_frame_count": 40,
+    "master_contact_sheet_interval_seconds": 1.0,
+    "master_contact_sheet_frame_count": 20,
+    "master_contact_sheet_page_count": 3,
+    "high_cadence_frames_per_second": 4,
+    "high_cadence_sampled_frame_count": 80,
+    "high_cadence_motion_strip_page_count": 5,
+    "decode_errors": [],
+    "adjacent_exact_duplicate_pair_count": 0,
+    "adjacent_exact_duplicate_pairs": [],
+    "transition_window_count": 3,
+    "transition_sheet_page_count": 9,
+    "player_ball_sequence_count": 0,
+    "player_ball_sheet_page_count": 0,
+    "camera_environment_sheet_page_count": 1
+  },
+  {
+    "video_id": "MULTI_GAME_TRANSITION_PROOF_V1",
+    "source_video": "MULTI_GAME_TRANSITION_PROOF_V1.mp4",
+    "duration_seconds": 25,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1",
+    "source_frame_count": 750,
+    "timestamped_frame_interval_seconds": 0.5,
+    "timestamped_frame_count": 50,
+    "master_contact_sheet_interval_seconds": 1.0,
+    "master_contact_sheet_frame_count": 25,
+    "master_contact_sheet_page_count": 3,
+    "high_cadence_frames_per_second": 4,
+    "high_cadence_sampled_frame_count": 100,
+    "high_cadence_motion_strip_page_count": 7,
+    "decode_errors": [],
+    "adjacent_exact_duplicate_pair_count": 0,
+    "adjacent_exact_duplicate_pairs": [],
+    "transition_window_count": 3,
+    "transition_sheet_page_count": 9,
+    "player_ball_sequence_count": 1,
+    "player_ball_sheet_page_count": 5,
+    "camera_environment_sheet_page_count": 1
+  },
+  {
+    "video_id": "R3F_BROADCAST_CONTINUITY_PROOF_V2",
+    "source_video": "R3F_BROADCAST_CONTINUITY_PROOF_V2.mp4",
+    "duration_seconds": 50,
+    "source_resolution": {
+      "width": 1920,
+      "height": 1080
+    },
+    "source_frame_rate": "30/1",
+    "source_frame_count": 1500,
+    "timestamped_frame_interval_seconds": 0.5,
+    "timestamped_frame_count": 100,
+    "master_contact_sheet_interval_seconds": 1.0,
+    "master_contact_sheet_frame_count": 50,
+    "master_contact_sheet_page_count": 6,
+    "high_cadence_frames_per_second": 4,
+    "high_cadence_sampled_frame_count": 200,
+    "high_cadence_motion_strip_page_count": 13,
+    "decode_errors": [],
+    "adjacent_exact_duplicate_pair_count": 0,
+    "adjacent_exact_duplicate_pairs": [],
+    "transition_window_count": 8,
+    "transition_sheet_page_count": 24,
+    "player_ball_sequence_count": 2,
+    "player_ball_sheet_page_count": 15,
+    "camera_environment_sheet_page_count": 2
+  }
+]
