@@ -42,19 +42,19 @@
     </div>
   </header>
 
-  <main>
+  <main id="main"><div class="shell note" style="margin-top:24px"><strong>Research recovery, October 2026.</strong> Original findings are historical. <a href="https://github.com/Emr89/Instantaneous-Preliminary-Kick-Return-Analysis">The source audit</a> separates terminal-position metrics from return-yardage models and documents validation risks.</div>
     <div class="wide-shell metrics" aria-label="Project highlights">
       <div class="metric">
         <div class="number">0.529</div>
-        <div class="label">Best reported R² using the later space-time-aware Random Forest approach.</div>
+        <div class="label">Archived caret Rsquared for terminal returner x-coordinate; not independently reproduced.</div>
       </div>
       <div class="metric">
         <div class="number">52.9%</div>
-        <div class="label">Observed variance in return yardage explained by that model — not “52.9% accuracy.”</div>
+        <div class="label">Historical metric as a percentage; not prediction accuracy or a verified return-yardage R².</div>
       </div>
       <div class="metric">
         <div class="number">7</div>
-        <div class="label">Predictors in the strongest reported space-time model.</div>
+        <div class="label">Predictors in the archived role-held-out model.</div>
       </div>
       <div class="metric">
         <div class="number">1 frame</div>
@@ -68,7 +68,7 @@
         <h2>The play had not unfolded yet. The structure already mattered.</h2>
         <p class="lead">My goal was not simply to predict kick-return yardage. I wanted to understand whether the geometry and movement of the players at the instant of reception contained an early signal about what the play would become.</p>
         <p>The project began as an NFL Big Data Bowl analysis and developed through an NFL mentorship experience. I engineered spatial relationships from tracking data, compared multiple model families, and then explored a space-time-aware validation approach with Random Forests.</p>
-        <p>The strongest reported model reached an <strong>R² of 0.529</strong>. More important to me than the number itself was the football pattern behind it: <strong>relative spacing and coverage-unit structure repeatedly carried more signal than isolated movement statistics such as individual speed or orientation.</strong></p>
+        <p>The archived follow-up reports <strong>caret Rsquared = 0.529</strong> for the returner’s terminal x-coordinate. The original return-yardage analysis is a separate modeling task. Spatial feature engineering is an authentic contribution; the performance and tactical conclusions need a new independent-play evaluation.</p>
 
         <div class="callout">
           <strong>The central idea</strong>
@@ -83,7 +83,7 @@
         <h2>Why freeze the play at reception?</h2>
         <p class="lead">Kick returns are unusually useful for studying interaction because every player is moving through open space toward a rapidly changing common objective.</p>
         <p>By freezing each return at the event where the kick returner receives the ball, I could ask a cleaner question: <strong>how much of the eventual return is associated with the state of the system before most of the return itself has happened?</strong></p>
-        <p>The target was kick-return yardage. The explanatory information came primarily from NFL tracking data, with play, game, and PFF scouting data used to identify the correct players, teams, events, and contextual fields.</p>
+        <p>The initial target was kick-return yardage; the later archived Model LLO targets terminal x-coordinate (KR_X). The explanatory information came primarily from NFL tracking data, with play, game, and PFF scouting data used to identify the correct players, teams, events, and contextual fields.</p>
 
         <figure class="case-figure">
           <img src="/images/NFL_1_3.png" alt="NFL Big Data Bowl project visualization">
@@ -141,7 +141,7 @@
     <section class="case-section soft">
       <div class="content-shell">
         <div class="kicker">Model development</div>
-        <h2>The validation strategy changed the result.</h2>
+        <h2>A later model asked a different question.</h2>
         <p class="lead">My initial model comparison tested several common regression and machine-learning approaches after centering, scaling, and Yeo-Johnson transformation where appropriate.</p>
         <p>In those early comparisons, the strongest Random Forest and linear-model variants reached roughly <strong>R² ≈ 0.35</strong>, while regularized approaches clustered closer to roughly 0.30.</p>
 
@@ -150,25 +150,25 @@
           <figcaption>Original model-comparison output. The first phase suggested that feature representation and Random Forest / linear approaches were more effective than the other tested model families.</figcaption>
         </figure>
 
-        <p>Later in the project I introduced the <strong>CAST</strong> package and a space-time-aware resampling approach alongside Random Forest modeling. That reported model used only seven predictors and reached <strong>R² = 0.529</strong>.</p>
+        <p>The later <strong>CAST</strong> experiment uses seven player-level predictors and reports <strong>Rsquared = 0.5290068</strong>. Source code constructs KR_X from the returner’s x-coordinate at tackle and holds out TKOP player-role groups with k=3. This does not isolate complete plays or games; the same return can contribute rows to both training and validation. It cannot establish an improvement over the earlier return-yardage models.</p>
 
         <figure class="case-figure">
           <img src="/images/BESTTSMSUM.png" alt="Summary of the strongest space-time-aware Random Forest model">
-          <figcaption>The later space-time-aware model substantially improved the reported out-of-sample fit in the original analysis.</figcaption>
+          <figcaption>Archived console result for a different response and role-based resampling; not a validated improvement in unseen-return prediction.</figcaption>
         </figure>
 
         <div class="callout">
           <strong>Important statistical wording</strong>
-          <p>R² = 0.529 means the model explained 52.9% of the observed variance under the reported evaluation setup. It does not mean the predictions were “52.9% accurate.”</p>
+          <p>The saved caret Rsquared is squared observed/predicted correlation. It is not prediction accuracy, and need not equal conventional held-out 1−SSE/SST R². The raw inputs and saved predictions are unavailable, so a fresh variance-explained claim is not verified. <a href="https://topepo.github.io/caret/measuring-performance.html">Metric definition</a>.</p>
         </div>
       </div>
     </section>
 
     <section class="case-section">
       <div class="content-shell">
-        <div class="kicker">Football findings</div>
-        <h2>Spacing kept winning the argument.</h2>
-        <p class="lead">Across the exploratory model variants, the strongest recurring signals were not simply “who is fastest?” They described how the coverage and return units were arranged relative to the returner and to one another.</p>
+        <div class="kicker">Historical exploratory interpretations</div>
+        <h2>Spacing supplied a research hypothesis.</h2>
+        <p class="lead">The original exploratory write-up emphasized spacing and unit structure. Those interpretations are preserved as research hypotheses; leakage-safe, independent-play evaluation and regenerated importance estimates are still required.</p>
 
         <div class="finding-grid">
           <article class="finding">
@@ -211,7 +211,7 @@
         <div class="limitation-list">
           <div class="limitation">
             <strong>Use play-grouped / space-time validation from the beginning.</strong>
-            The later CAST-based approach should be part of the initial experimental design rather than something discovered near the end.
+            Split complete plays or games, preferably holding out a later season. The archived CAST split groups player roles, so it does not provide this protection.
           </div>
           <div class="limitation">
             <strong>Strictly separate prediction-time information from post-play information.</strong>
