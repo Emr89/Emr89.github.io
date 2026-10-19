@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
-
+Disallow: /cfa/review/
+Disallow: /archive/
+# Crawler guidance is not access control. Existing public files require separate remediation.
 Sitemap: https://emr89.github.io/sitemap.xml
